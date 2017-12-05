@@ -1,0 +1,2300 @@
+[Wed Apr 20 21:41:52 2011] [notice] Apache/2.2.16 (Unix) configured -- resuming normal operations
+[Wed Apr 20 21:41:52 2011] [info] Server built: Apr 20 2011 20:26:55
+[Wed Apr 20 21:41:53 2011] [info] power_aware_balancer: sleep time: 20000000000, delta_interval: 1000000, lbfactor: 10, num_servers_on: 1, num_servers_enabling: 0 
+[Wed Apr 20 21:41:53 2011] [info] power_aware_balancer: num_servers_on: 1, num_servers_enabling: 0, jobs_in_system: 0, lbfactor: 10
+[Wed Apr 20 21:41:53 2011] [info] power_aware_balancer: arrival rate now is 0 req/sec
+[Wed Apr 20 21:41:53 2011] [info] power_aware_balancer: sleep time: 10000000000, max idle time: 120000000000, lbfactor: 10, num_servers_on: 1, num_servers_enabling: 0
+[Wed Apr 20 21:41:53 2011] [info] power_aware_balancer: num_servers_on: 1, num_servers_enabling: 0, jobs_in_system: 0, lbfactor: 10
+[Wed Apr 20 21:41:53 2011] [info] info_poll: Worker state values -- Ready: 0, Setup: 1, Setdown: 2, Off: 3
+[Wed Apr 20 21:41:53 2011] [info] arrival_rate_poll: num_arrivals: 69, delta_num_arrivals: 69, num_departures: 19, jobs_in_system: 50 
+[Wed Apr 20 21:41:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:41:53 2011] [info] busy_poll: 50 
+[Wed Apr 20 21:41:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:41:54 2011] [info] arrival_rate_poll: num_arrivals: 126, delta_num_arrivals: 57, num_departures: 78, jobs_in_system: 48 
+[Wed Apr 20 21:41:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:41:54 2011] [info] busy_poll: 48 
+[Wed Apr 20 21:41:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:41:55 2011] [info] arrival_rate_poll: num_arrivals: 185, delta_num_arrivals: 59, num_departures: 141, jobs_in_system: 44 
+[Wed Apr 20 21:41:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:41:55 2011] [info] busy_poll: 44 
+[Wed Apr 20 21:41:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:41:56 2011] [info] arrival_rate_poll: num_arrivals: 259, delta_num_arrivals: 74, num_departures: 215, jobs_in_system: 44 
+[Wed Apr 20 21:41:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:41:56 2011] [info] busy_poll: 44 
+[Wed Apr 20 21:41:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:41:57 2011] [info] arrival_rate_poll: num_arrivals: 328, delta_num_arrivals: 69, num_departures: 314, jobs_in_system: 14 
+[Wed Apr 20 21:41:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:41:57 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:41:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:41:58 2011] [info] arrival_rate_poll: num_arrivals: 388, delta_num_arrivals: 60, num_departures: 381, jobs_in_system: 7 
+[Wed Apr 20 21:41:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:41:58 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:41:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:41:59 2011] [info] arrival_rate_poll: num_arrivals: 453, delta_num_arrivals: 65, num_departures: 441, jobs_in_system: 12 
+[Wed Apr 20 21:41:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:41:59 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:41:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:00 2011] [info] arrival_rate_poll: num_arrivals: 509, delta_num_arrivals: 56, num_departures: 496, jobs_in_system: 13 
+[Wed Apr 20 21:42:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:00 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:42:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:01 2011] [info] arrival_rate_poll: num_arrivals: 566, delta_num_arrivals: 57, num_departures: 556, jobs_in_system: 10 
+[Wed Apr 20 21:42:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:01 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:42:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:02 2011] [info] arrival_rate_poll: num_arrivals: 626, delta_num_arrivals: 60, num_departures: 613, jobs_in_system: 13 
+[Wed Apr 20 21:42:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:02 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:42:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:03 2011] [info] arrival_rate_poll: num_arrivals: 691, delta_num_arrivals: 65, num_departures: 687, jobs_in_system: 4 
+[Wed Apr 20 21:42:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:03 2011] [info] busy_poll: 4 
+[Wed Apr 20 21:42:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:04 2011] [info] arrival_rate_poll: num_arrivals: 754, delta_num_arrivals: 63, num_departures: 741, jobs_in_system: 13 
+[Wed Apr 20 21:42:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:04 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:42:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:05 2011] [info] arrival_rate_poll: num_arrivals: 816, delta_num_arrivals: 62, num_departures: 809, jobs_in_system: 7 
+[Wed Apr 20 21:42:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:05 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:42:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:06 2011] [info] arrival_rate_poll: num_arrivals: 881, delta_num_arrivals: 65, num_departures: 869, jobs_in_system: 12 
+[Wed Apr 20 21:42:06 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:42:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:07 2011] [info] arrival_rate_poll: num_arrivals: 936, delta_num_arrivals: 55, num_departures: 929, jobs_in_system: 7 
+[Wed Apr 20 21:42:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:07 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:42:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:08 2011] [info] arrival_rate_poll: num_arrivals: 1006, delta_num_arrivals: 70, num_departures: 988, jobs_in_system: 18 
+[Wed Apr 20 21:42:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:08 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:42:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:09 2011] [info] arrival_rate_poll: num_arrivals: 1085, delta_num_arrivals: 79, num_departures: 1067, jobs_in_system: 18 
+[Wed Apr 20 21:42:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:09 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:42:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:10 2011] [info] arrival_rate_poll: num_arrivals: 1161, delta_num_arrivals: 76, num_departures: 1150, jobs_in_system: 11 
+[Wed Apr 20 21:42:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:10 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:42:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:11 2011] [info] arrival_rate_poll: num_arrivals: 1246, delta_num_arrivals: 85, num_departures: 1235, jobs_in_system: 11 
+[Wed Apr 20 21:42:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:11 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:42:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:12 2011] [info] arrival_rate_poll: num_arrivals: 1303, delta_num_arrivals: 57, num_departures: 1290, jobs_in_system: 13 
+[Wed Apr 20 21:42:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:12 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:42:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:13 2011] [info] arrival_rate_poll: num_arrivals: 1366, delta_num_arrivals: 63, num_departures: 1358, jobs_in_system: 8 
+[Wed Apr 20 21:42:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:13 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:42:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:14 2011] [info] arrival_rate_poll: num_arrivals: 1430, delta_num_arrivals: 64, num_departures: 1414, jobs_in_system: 16 
+[Wed Apr 20 21:42:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:14 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:42:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:15 2011] [info] arrival_rate_poll: num_arrivals: 1502, delta_num_arrivals: 72, num_departures: 1483, jobs_in_system: 19 
+[Wed Apr 20 21:42:15 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:42:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:16 2011] [info] arrival_rate_poll: num_arrivals: 1566, delta_num_arrivals: 64, num_departures: 1557, jobs_in_system: 9 
+[Wed Apr 20 21:42:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:16 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:42:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:17 2011] [info] arrival_rate_poll: num_arrivals: 1622, delta_num_arrivals: 56, num_departures: 1610, jobs_in_system: 12 
+[Wed Apr 20 21:42:17 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:17 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:42:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:18 2011] [info] arrival_rate_poll: num_arrivals: 1686, delta_num_arrivals: 64, num_departures: 1675, jobs_in_system: 11 
+[Wed Apr 20 21:42:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:18 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:42:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:19 2011] [info] arrival_rate_poll: num_arrivals: 1739, delta_num_arrivals: 53, num_departures: 1729, jobs_in_system: 10 
+[Wed Apr 20 21:42:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:19 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:42:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:20 2011] [info] arrival_rate_poll: num_arrivals: 1799, delta_num_arrivals: 60, num_departures: 1791, jobs_in_system: 8 
+[Wed Apr 20 21:42:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:20 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:42:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:21 2011] [info] arrival_rate_poll: num_arrivals: 1866, delta_num_arrivals: 67, num_departures: 1850, jobs_in_system: 16 
+[Wed Apr 20 21:42:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:21 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:42:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:22 2011] [info] arrival_rate_poll: num_arrivals: 1933, delta_num_arrivals: 67, num_departures: 1915, jobs_in_system: 18 
+[Wed Apr 20 21:42:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:22 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:42:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:23 2011] [info] arrival_rate_poll: num_arrivals: 1992, delta_num_arrivals: 59, num_departures: 1982, jobs_in_system: 10 
+[Wed Apr 20 21:42:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:23 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:42:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:24 2011] [info] arrival_rate_poll: num_arrivals: 2051, delta_num_arrivals: 59, num_departures: 2041, jobs_in_system: 10 
+[Wed Apr 20 21:42:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:24 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:42:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:25 2011] [info] arrival_rate_poll: num_arrivals: 2117, delta_num_arrivals: 66, num_departures: 2108, jobs_in_system: 9 
+[Wed Apr 20 21:42:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:25 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:42:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:26 2011] [info] arrival_rate_poll: num_arrivals: 2174, delta_num_arrivals: 57, num_departures: 2159, jobs_in_system: 15 
+[Wed Apr 20 21:42:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:26 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:42:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:27 2011] [info] arrival_rate_poll: num_arrivals: 2243, delta_num_arrivals: 69, num_departures: 2235, jobs_in_system: 8 
+[Wed Apr 20 21:42:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:27 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:42:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:28 2011] [info] arrival_rate_poll: num_arrivals: 2331, delta_num_arrivals: 88, num_departures: 2309, jobs_in_system: 22 
+[Wed Apr 20 21:42:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:28 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:42:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:29 2011] [info] arrival_rate_poll: num_arrivals: 2411, delta_num_arrivals: 80, num_departures: 2388, jobs_in_system: 23 
+[Wed Apr 20 21:42:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:29 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:42:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:30 2011] [info] arrival_rate_poll: num_arrivals: 2477, delta_num_arrivals: 66, num_departures: 2468, jobs_in_system: 9 
+[Wed Apr 20 21:42:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:30 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:42:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:31 2011] [info] arrival_rate_poll: num_arrivals: 2538, delta_num_arrivals: 61, num_departures: 2528, jobs_in_system: 10 
+[Wed Apr 20 21:42:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:31 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:42:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:32 2011] [info] arrival_rate_poll: num_arrivals: 2595, delta_num_arrivals: 57, num_departures: 2583, jobs_in_system: 12 
+[Wed Apr 20 21:42:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:32 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:42:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:33 2011] [info] arrival_rate_poll: num_arrivals: 2666, delta_num_arrivals: 71, num_departures: 2653, jobs_in_system: 13 
+[Wed Apr 20 21:42:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:33 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:42:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:34 2011] [info] arrival_rate_poll: num_arrivals: 2736, delta_num_arrivals: 70, num_departures: 2726, jobs_in_system: 10 
+[Wed Apr 20 21:42:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:34 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:42:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:35 2011] [info] arrival_rate_poll: num_arrivals: 2800, delta_num_arrivals: 64, num_departures: 2788, jobs_in_system: 12 
+[Wed Apr 20 21:42:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:35 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:42:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:36 2011] [info] arrival_rate_poll: num_arrivals: 2860, delta_num_arrivals: 60, num_departures: 2853, jobs_in_system: 7 
+[Wed Apr 20 21:42:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:36 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:42:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:37 2011] [info] arrival_rate_poll: num_arrivals: 2913, delta_num_arrivals: 53, num_departures: 2907, jobs_in_system: 6 
+[Wed Apr 20 21:42:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:37 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:42:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:38 2011] [info] arrival_rate_poll: num_arrivals: 2977, delta_num_arrivals: 64, num_departures: 2960, jobs_in_system: 17 
+[Wed Apr 20 21:42:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:38 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:42:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:39 2011] [info] arrival_rate_poll: num_arrivals: 3035, delta_num_arrivals: 58, num_departures: 3022, jobs_in_system: 13 
+[Wed Apr 20 21:42:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:39 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:42:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:40 2011] [info] arrival_rate_poll: num_arrivals: 3097, delta_num_arrivals: 62, num_departures: 3093, jobs_in_system: 4 
+[Wed Apr 20 21:42:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:40 2011] [info] busy_poll: 4 
+[Wed Apr 20 21:42:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:41 2011] [info] arrival_rate_poll: num_arrivals: 3166, delta_num_arrivals: 69, num_departures: 3149, jobs_in_system: 17 
+[Wed Apr 20 21:42:41 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:42:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:42 2011] [info] arrival_rate_poll: num_arrivals: 3226, delta_num_arrivals: 60, num_departures: 3209, jobs_in_system: 17 
+[Wed Apr 20 21:42:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:42 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:42:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:43 2011] [info] arrival_rate_poll: num_arrivals: 3288, delta_num_arrivals: 62, num_departures: 3277, jobs_in_system: 11 
+[Wed Apr 20 21:42:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:43 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:42:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:44 2011] [info] arrival_rate_poll: num_arrivals: 3342, delta_num_arrivals: 54, num_departures: 3335, jobs_in_system: 7 
+[Wed Apr 20 21:42:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:44 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:42:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:45 2011] [info] arrival_rate_poll: num_arrivals: 3416, delta_num_arrivals: 74, num_departures: 3398, jobs_in_system: 18 
+[Wed Apr 20 21:42:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:45 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:42:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:46 2011] [info] arrival_rate_poll: num_arrivals: 3498, delta_num_arrivals: 82, num_departures: 3480, jobs_in_system: 18 
+[Wed Apr 20 21:42:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:46 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:42:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:47 2011] [info] arrival_rate_poll: num_arrivals: 3568, delta_num_arrivals: 70, num_departures: 3560, jobs_in_system: 8 
+[Wed Apr 20 21:42:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:47 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:42:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:48 2011] [info] arrival_rate_poll: num_arrivals: 3653, delta_num_arrivals: 85, num_departures: 3644, jobs_in_system: 9 
+[Wed Apr 20 21:42:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:48 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:42:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:49 2011] [info] arrival_rate_poll: num_arrivals: 3710, delta_num_arrivals: 57, num_departures: 3697, jobs_in_system: 13 
+[Wed Apr 20 21:42:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:49 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:42:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:50 2011] [info] arrival_rate_poll: num_arrivals: 3771, delta_num_arrivals: 61, num_departures: 3762, jobs_in_system: 9 
+[Wed Apr 20 21:42:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:50 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:42:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:51 2011] [info] arrival_rate_poll: num_arrivals: 3837, delta_num_arrivals: 66, num_departures: 3826, jobs_in_system: 11 
+[Wed Apr 20 21:42:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:51 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:42:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:52 2011] [info] arrival_rate_poll: num_arrivals: 3906, delta_num_arrivals: 69, num_departures: 3899, jobs_in_system: 7 
+[Wed Apr 20 21:42:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:52 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:42:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:53 2011] [info] arrival_rate_poll: num_arrivals: 3972, delta_num_arrivals: 66, num_departures: 3960, jobs_in_system: 12 
+[Wed Apr 20 21:42:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:53 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:42:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:54 2011] [info] arrival_rate_poll: num_arrivals: 4033, delta_num_arrivals: 61, num_departures: 4020, jobs_in_system: 13 
+[Wed Apr 20 21:42:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:54 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:42:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:55 2011] [info] arrival_rate_poll: num_arrivals: 4089, delta_num_arrivals: 56, num_departures: 4084, jobs_in_system: 5 
+[Wed Apr 20 21:42:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:55 2011] [info] busy_poll: 5 
+[Wed Apr 20 21:42:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:56 2011] [info] arrival_rate_poll: num_arrivals: 4145, delta_num_arrivals: 56, num_departures: 4134, jobs_in_system: 11 
+[Wed Apr 20 21:42:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:56 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:42:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:57 2011] [info] arrival_rate_poll: num_arrivals: 4208, delta_num_arrivals: 63, num_departures: 4194, jobs_in_system: 14 
+[Wed Apr 20 21:42:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:57 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:42:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:58 2011] [info] arrival_rate_poll: num_arrivals: 4277, delta_num_arrivals: 69, num_departures: 4261, jobs_in_system: 16 
+[Wed Apr 20 21:42:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:58 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:42:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:42:59 2011] [info] arrival_rate_poll: num_arrivals: 4337, delta_num_arrivals: 60, num_departures: 4323, jobs_in_system: 14 
+[Wed Apr 20 21:42:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:42:59 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:42:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:00 2011] [info] arrival_rate_poll: num_arrivals: 4396, delta_num_arrivals: 59, num_departures: 4384, jobs_in_system: 12 
+[Wed Apr 20 21:43:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:00 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:43:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:01 2011] [info] arrival_rate_poll: num_arrivals: 4459, delta_num_arrivals: 63, num_departures: 4446, jobs_in_system: 13 
+[Wed Apr 20 21:43:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:01 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:43:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:02 2011] [info] arrival_rate_poll: num_arrivals: 4521, delta_num_arrivals: 62, num_departures: 4515, jobs_in_system: 6 
+[Wed Apr 20 21:43:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:02 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:43:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:03 2011] [info] arrival_rate_poll: num_arrivals: 4581, delta_num_arrivals: 60, num_departures: 4566, jobs_in_system: 15 
+[Wed Apr 20 21:43:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:03 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:43:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:04 2011] [info] arrival_rate_poll: num_arrivals: 4652, delta_num_arrivals: 71, num_departures: 4641, jobs_in_system: 11 
+[Wed Apr 20 21:43:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:04 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:05 2011] [info] arrival_rate_poll: num_arrivals: 4741, delta_num_arrivals: 89, num_departures: 4724, jobs_in_system: 17 
+[Wed Apr 20 21:43:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:05 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:43:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:06 2011] [info] arrival_rate_poll: num_arrivals: 4822, delta_num_arrivals: 81, num_departures: 4800, jobs_in_system: 22 
+[Wed Apr 20 21:43:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:06 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:43:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:07 2011] [info] arrival_rate_poll: num_arrivals: 4883, delta_num_arrivals: 61, num_departures: 4870, jobs_in_system: 13 
+[Wed Apr 20 21:43:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:07 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:43:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:08 2011] [info] arrival_rate_poll: num_arrivals: 4944, delta_num_arrivals: 61, num_departures: 4936, jobs_in_system: 8 
+[Wed Apr 20 21:43:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:08 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:43:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:09 2011] [info] arrival_rate_poll: num_arrivals: 5002, delta_num_arrivals: 58, num_departures: 4991, jobs_in_system: 11 
+[Wed Apr 20 21:43:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:09 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:10 2011] [info] arrival_rate_poll: num_arrivals: 5073, delta_num_arrivals: 71, num_departures: 5063, jobs_in_system: 10 
+[Wed Apr 20 21:43:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:10 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:43:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:11 2011] [info] arrival_rate_poll: num_arrivals: 5144, delta_num_arrivals: 71, num_departures: 5132, jobs_in_system: 12 
+[Wed Apr 20 21:43:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:11 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:43:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:12 2011] [info] arrival_rate_poll: num_arrivals: 5203, delta_num_arrivals: 59, num_departures: 5196, jobs_in_system: 7 
+[Wed Apr 20 21:43:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:12 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:43:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:13 2011] [info] arrival_rate_poll: num_arrivals: 5264, delta_num_arrivals: 61, num_departures: 5260, jobs_in_system: 4 
+[Wed Apr 20 21:43:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:13 2011] [info] busy_poll: 4 
+[Wed Apr 20 21:43:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:14 2011] [info] arrival_rate_poll: num_arrivals: 5321, delta_num_arrivals: 57, num_departures: 5312, jobs_in_system: 9 
+[Wed Apr 20 21:43:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:14 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:43:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:15 2011] [info] arrival_rate_poll: num_arrivals: 5381, delta_num_arrivals: 60, num_departures: 5371, jobs_in_system: 10 
+[Wed Apr 20 21:43:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:15 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:43:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:16 2011] [info] arrival_rate_poll: num_arrivals: 5440, delta_num_arrivals: 59, num_departures: 5429, jobs_in_system: 11 
+[Wed Apr 20 21:43:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:16 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:17 2011] [info] arrival_rate_poll: num_arrivals: 5507, delta_num_arrivals: 67, num_departures: 5492, jobs_in_system: 15 
+[Wed Apr 20 21:43:17 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:17 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:43:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:18 2011] [info] arrival_rate_poll: num_arrivals: 5572, delta_num_arrivals: 65, num_departures: 5558, jobs_in_system: 14 
+[Wed Apr 20 21:43:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:18 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:43:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:19 2011] [info] arrival_rate_poll: num_arrivals: 5630, delta_num_arrivals: 58, num_departures: 5623, jobs_in_system: 7 
+[Wed Apr 20 21:43:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:19 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:43:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:20 2011] [info] arrival_rate_poll: num_arrivals: 5696, delta_num_arrivals: 66, num_departures: 5685, jobs_in_system: 11 
+[Wed Apr 20 21:43:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:20 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:21 2011] [info] arrival_rate_poll: num_arrivals: 5753, delta_num_arrivals: 57, num_departures: 5742, jobs_in_system: 11 
+[Wed Apr 20 21:43:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:21 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:22 2011] [info] arrival_rate_poll: num_arrivals: 5820, delta_num_arrivals: 67, num_departures: 5805, jobs_in_system: 15 
+[Wed Apr 20 21:43:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:22 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:43:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:23 2011] [info] arrival_rate_poll: num_arrivals: 5907, delta_num_arrivals: 87, num_departures: 5884, jobs_in_system: 23 
+[Wed Apr 20 21:43:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:23 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:43:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:24 2011] [info] arrival_rate_poll: num_arrivals: 5982, delta_num_arrivals: 75, num_departures: 5966, jobs_in_system: 16 
+[Wed Apr 20 21:43:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:24 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:43:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:25 2011] [info] arrival_rate_poll: num_arrivals: 6058, delta_num_arrivals: 76, num_departures: 6052, jobs_in_system: 6 
+[Wed Apr 20 21:43:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:25 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:43:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:26 2011] [info] arrival_rate_poll: num_arrivals: 6117, delta_num_arrivals: 59, num_departures: 6106, jobs_in_system: 11 
+[Wed Apr 20 21:43:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:26 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:27 2011] [info] arrival_rate_poll: num_arrivals: 6179, delta_num_arrivals: 62, num_departures: 6169, jobs_in_system: 10 
+[Wed Apr 20 21:43:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:27 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:43:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:28 2011] [info] arrival_rate_poll: num_arrivals: 6249, delta_num_arrivals: 70, num_departures: 6231, jobs_in_system: 18 
+[Wed Apr 20 21:43:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:28 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:43:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:29 2011] [info] arrival_rate_poll: num_arrivals: 6313, delta_num_arrivals: 64, num_departures: 6305, jobs_in_system: 8 
+[Wed Apr 20 21:43:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:29 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:43:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:30 2011] [info] arrival_rate_poll: num_arrivals: 6378, delta_num_arrivals: 65, num_departures: 6370, jobs_in_system: 8 
+[Wed Apr 20 21:43:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:30 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:43:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:31 2011] [info] arrival_rate_poll: num_arrivals: 6438, delta_num_arrivals: 60, num_departures: 6428, jobs_in_system: 10 
+[Wed Apr 20 21:43:31 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:43:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:32 2011] [info] arrival_rate_poll: num_arrivals: 6496, delta_num_arrivals: 58, num_departures: 6489, jobs_in_system: 7 
+[Wed Apr 20 21:43:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:32 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:43:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:33 2011] [info] arrival_rate_poll: num_arrivals: 6553, delta_num_arrivals: 57, num_departures: 6545, jobs_in_system: 8 
+[Wed Apr 20 21:43:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:33 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:43:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:34 2011] [info] arrival_rate_poll: num_arrivals: 6613, delta_num_arrivals: 60, num_departures: 6603, jobs_in_system: 10 
+[Wed Apr 20 21:43:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:34 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:43:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:35 2011] [info] arrival_rate_poll: num_arrivals: 6684, delta_num_arrivals: 71, num_departures: 6666, jobs_in_system: 18 
+[Wed Apr 20 21:43:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:35 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:43:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:36 2011] [info] arrival_rate_poll: num_arrivals: 6742, delta_num_arrivals: 58, num_departures: 6732, jobs_in_system: 10 
+[Wed Apr 20 21:43:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:36 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:43:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:37 2011] [info] arrival_rate_poll: num_arrivals: 6805, delta_num_arrivals: 63, num_departures: 6794, jobs_in_system: 11 
+[Wed Apr 20 21:43:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:37 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:38 2011] [info] arrival_rate_poll: num_arrivals: 6869, delta_num_arrivals: 64, num_departures: 6855, jobs_in_system: 14 
+[Wed Apr 20 21:43:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:38 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:43:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:39 2011] [info] arrival_rate_poll: num_arrivals: 6926, delta_num_arrivals: 57, num_departures: 6921, jobs_in_system: 5 
+[Wed Apr 20 21:43:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:39 2011] [info] busy_poll: 5 
+[Wed Apr 20 21:43:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:40 2011] [info] arrival_rate_poll: num_arrivals: 6989, delta_num_arrivals: 63, num_departures: 6977, jobs_in_system: 12 
+[Wed Apr 20 21:43:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:40 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:43:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:41 2011] [info] arrival_rate_poll: num_arrivals: 7066, delta_num_arrivals: 77, num_departures: 7049, jobs_in_system: 17 
+[Wed Apr 20 21:43:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:41 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:43:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:42 2011] [info] arrival_rate_poll: num_arrivals: 7147, delta_num_arrivals: 81, num_departures: 7134, jobs_in_system: 13 
+[Wed Apr 20 21:43:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:42 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:43:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:43 2011] [info] arrival_rate_poll: num_arrivals: 7232, delta_num_arrivals: 85, num_departures: 7215, jobs_in_system: 17 
+[Wed Apr 20 21:43:43 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:43:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:44 2011] [info] arrival_rate_poll: num_arrivals: 7287, delta_num_arrivals: 55, num_departures: 7282, jobs_in_system: 5 
+[Wed Apr 20 21:43:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:44 2011] [info] busy_poll: 5 
+[Wed Apr 20 21:43:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:45 2011] [info] arrival_rate_poll: num_arrivals: 7354, delta_num_arrivals: 67, num_departures: 7338, jobs_in_system: 16 
+[Wed Apr 20 21:43:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:45 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:43:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:46 2011] [info] arrival_rate_poll: num_arrivals: 7412, delta_num_arrivals: 58, num_departures: 7399, jobs_in_system: 13 
+[Wed Apr 20 21:43:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:46 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:43:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:47 2011] [info] arrival_rate_poll: num_arrivals: 7483, delta_num_arrivals: 71, num_departures: 7471, jobs_in_system: 12 
+[Wed Apr 20 21:43:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:47 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:43:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:48 2011] [info] arrival_rate_poll: num_arrivals: 7554, delta_num_arrivals: 71, num_departures: 7542, jobs_in_system: 12 
+[Wed Apr 20 21:43:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:48 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:43:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:49 2011] [info] arrival_rate_poll: num_arrivals: 7609, delta_num_arrivals: 55, num_departures: 7603, jobs_in_system: 6 
+[Wed Apr 20 21:43:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:49 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:43:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:50 2011] [info] arrival_rate_poll: num_arrivals: 7672, delta_num_arrivals: 63, num_departures: 7662, jobs_in_system: 10 
+[Wed Apr 20 21:43:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:50 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:43:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:51 2011] [info] arrival_rate_poll: num_arrivals: 7728, delta_num_arrivals: 56, num_departures: 7717, jobs_in_system: 11 
+[Wed Apr 20 21:43:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:51 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:52 2011] [info] arrival_rate_poll: num_arrivals: 7789, delta_num_arrivals: 61, num_departures: 7777, jobs_in_system: 12 
+[Wed Apr 20 21:43:52 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:43:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:53 2011] [info] arrival_rate_poll: num_arrivals: 7849, delta_num_arrivals: 60, num_departures: 7834, jobs_in_system: 15 
+[Wed Apr 20 21:43:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:53 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:43:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:54 2011] [info] arrival_rate_poll: num_arrivals: 7915, delta_num_arrivals: 66, num_departures: 7902, jobs_in_system: 13 
+[Wed Apr 20 21:43:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:54 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:43:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:55 2011] [info] arrival_rate_poll: num_arrivals: 7978, delta_num_arrivals: 63, num_departures: 7967, jobs_in_system: 11 
+[Wed Apr 20 21:43:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:55 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:43:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:56 2011] [info] arrival_rate_poll: num_arrivals: 8036, delta_num_arrivals: 58, num_departures: 8028, jobs_in_system: 8 
+[Wed Apr 20 21:43:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:56 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:43:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:57 2011] [info] arrival_rate_poll: num_arrivals: 8104, delta_num_arrivals: 68, num_departures: 8092, jobs_in_system: 12 
+[Wed Apr 20 21:43:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:57 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:43:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:58 2011] [info] arrival_rate_poll: num_arrivals: 8156, delta_num_arrivals: 52, num_departures: 8148, jobs_in_system: 8 
+[Wed Apr 20 21:43:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:58 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:43:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:43:59 2011] [info] arrival_rate_poll: num_arrivals: 8235, delta_num_arrivals: 79, num_departures: 8215, jobs_in_system: 20 
+[Wed Apr 20 21:43:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:43:59 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:43:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:00 2011] [info] arrival_rate_poll: num_arrivals: 8315, delta_num_arrivals: 80, num_departures: 8296, jobs_in_system: 19 
+[Wed Apr 20 21:44:00 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:44:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:01 2011] [info] arrival_rate_poll: num_arrivals: 8393, delta_num_arrivals: 78, num_departures: 8371, jobs_in_system: 22 
+[Wed Apr 20 21:44:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:01 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:44:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:02 2011] [info] arrival_rate_poll: num_arrivals: 8466, delta_num_arrivals: 73, num_departures: 8456, jobs_in_system: 10 
+[Wed Apr 20 21:44:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:02 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:44:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:03 2011] [info] arrival_rate_poll: num_arrivals: 8526, delta_num_arrivals: 60, num_departures: 8516, jobs_in_system: 10 
+[Wed Apr 20 21:44:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:03 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:44:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:04 2011] [info] arrival_rate_poll: num_arrivals: 8580, delta_num_arrivals: 54, num_departures: 8574, jobs_in_system: 6 
+[Wed Apr 20 21:44:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:04 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:44:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:05 2011] [info] arrival_rate_poll: num_arrivals: 8657, delta_num_arrivals: 77, num_departures: 8642, jobs_in_system: 15 
+[Wed Apr 20 21:44:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:05 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:44:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:06 2011] [info] arrival_rate_poll: num_arrivals: 8720, delta_num_arrivals: 63, num_departures: 8710, jobs_in_system: 10 
+[Wed Apr 20 21:44:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:06 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:44:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:07 2011] [info] arrival_rate_poll: num_arrivals: 8786, delta_num_arrivals: 66, num_departures: 8775, jobs_in_system: 11 
+[Wed Apr 20 21:44:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:07 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:44:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:08 2011] [info] arrival_rate_poll: num_arrivals: 8848, delta_num_arrivals: 62, num_departures: 8836, jobs_in_system: 12 
+[Wed Apr 20 21:44:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:08 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:09 2011] [info] arrival_rate_poll: num_arrivals: 8904, delta_num_arrivals: 56, num_departures: 8890, jobs_in_system: 14 
+[Wed Apr 20 21:44:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:09 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:44:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:10 2011] [info] arrival_rate_poll: num_arrivals: 8962, delta_num_arrivals: 58, num_departures: 8949, jobs_in_system: 13 
+[Wed Apr 20 21:44:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:10 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:44:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:11 2011] [info] arrival_rate_poll: num_arrivals: 9018, delta_num_arrivals: 56, num_departures: 9012, jobs_in_system: 6 
+[Wed Apr 20 21:44:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:11 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:44:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:12 2011] [info] arrival_rate_poll: num_arrivals: 9091, delta_num_arrivals: 73, num_departures: 9075, jobs_in_system: 16 
+[Wed Apr 20 21:44:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:12 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:44:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:13 2011] [info] arrival_rate_poll: num_arrivals: 9145, delta_num_arrivals: 54, num_departures: 9138, jobs_in_system: 7 
+[Wed Apr 20 21:44:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:13 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:44:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:14 2011] [info] arrival_rate_poll: num_arrivals: 9212, delta_num_arrivals: 67, num_departures: 9200, jobs_in_system: 12 
+[Wed Apr 20 21:44:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:14 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:15 2011] [info] arrival_rate_poll: num_arrivals: 9275, delta_num_arrivals: 63, num_departures: 9263, jobs_in_system: 12 
+[Wed Apr 20 21:44:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:15 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:16 2011] [info] arrival_rate_poll: num_arrivals: 9333, delta_num_arrivals: 58, num_departures: 9325, jobs_in_system: 8 
+[Wed Apr 20 21:44:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:16 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:44:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:17 2011] [info] arrival_rate_poll: num_arrivals: 9395, delta_num_arrivals: 62, num_departures: 9384, jobs_in_system: 11 
+[Wed Apr 20 21:44:17 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:17 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:44:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:18 2011] [info] arrival_rate_poll: num_arrivals: 9478, delta_num_arrivals: 83, num_departures: 9456, jobs_in_system: 22 
+[Wed Apr 20 21:44:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:18 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:44:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:19 2011] [info] arrival_rate_poll: num_arrivals: 9560, delta_num_arrivals: 82, num_departures: 9542, jobs_in_system: 18 
+[Wed Apr 20 21:44:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:19 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:44:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:20 2011] [info] arrival_rate_poll: num_arrivals: 9644, delta_num_arrivals: 84, num_departures: 9624, jobs_in_system: 20 
+[Wed Apr 20 21:44:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:20 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:44:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:21 2011] [info] arrival_rate_poll: num_arrivals: 9694, delta_num_arrivals: 50, num_departures: 9686, jobs_in_system: 8 
+[Wed Apr 20 21:44:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:21 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:44:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:22 2011] [info] arrival_rate_poll: num_arrivals: 9760, delta_num_arrivals: 66, num_departures: 9745, jobs_in_system: 15 
+[Wed Apr 20 21:44:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:22 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:44:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:23 2011] [info] arrival_rate_poll: num_arrivals: 9821, delta_num_arrivals: 61, num_departures: 9807, jobs_in_system: 14 
+[Wed Apr 20 21:44:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:23 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:44:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:24 2011] [info] arrival_rate_poll: num_arrivals: 9893, delta_num_arrivals: 72, num_departures: 9881, jobs_in_system: 12 
+[Wed Apr 20 21:44:24 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:25 2011] [info] arrival_rate_poll: num_arrivals: 9961, delta_num_arrivals: 68, num_departures: 9947, jobs_in_system: 14 
+[Wed Apr 20 21:44:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:25 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:44:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:26 2011] [info] arrival_rate_poll: num_arrivals: 10016, delta_num_arrivals: 55, num_departures: 10006, jobs_in_system: 10 
+[Wed Apr 20 21:44:26 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:44:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:27 2011] [info] arrival_rate_poll: num_arrivals: 10081, delta_num_arrivals: 65, num_departures: 10064, jobs_in_system: 17 
+[Wed Apr 20 21:44:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:27 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:44:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:28 2011] [info] arrival_rate_poll: num_arrivals: 10132, delta_num_arrivals: 51, num_departures: 10125, jobs_in_system: 7 
+[Wed Apr 20 21:44:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:28 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:44:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:29 2011] [info] arrival_rate_poll: num_arrivals: 10195, delta_num_arrivals: 63, num_departures: 10182, jobs_in_system: 13 
+[Wed Apr 20 21:44:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:29 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:44:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:30 2011] [info] arrival_rate_poll: num_arrivals: 10258, delta_num_arrivals: 63, num_departures: 10246, jobs_in_system: 12 
+[Wed Apr 20 21:44:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:30 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:31 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:44:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:31 2011] [info] arrival_rate_poll: num_arrivals: 10322, delta_num_arrivals: 64, num_departures: 10309, jobs_in_system: 13 
+[Wed Apr 20 21:44:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:32 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:32 2011] [info] arrival_rate_poll: num_arrivals: 10385, delta_num_arrivals: 63, num_departures: 10373, jobs_in_system: 12 
+[Wed Apr 20 21:44:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:33 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:44:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:33 2011] [info] arrival_rate_poll: num_arrivals: 10445, delta_num_arrivals: 60, num_departures: 10436, jobs_in_system: 9 
+[Wed Apr 20 21:44:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:34 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:44:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:34 2011] [info] arrival_rate_poll: num_arrivals: 10514, delta_num_arrivals: 69, num_departures: 10501, jobs_in_system: 13 
+[Wed Apr 20 21:44:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:35 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:44:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:35 2011] [info] arrival_rate_poll: num_arrivals: 10567, delta_num_arrivals: 53, num_departures: 10549, jobs_in_system: 18 
+[Wed Apr 20 21:44:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:36 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:44:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:36 2011] [info] arrival_rate_poll: num_arrivals: 10640, delta_num_arrivals: 73, num_departures: 10620, jobs_in_system: 20 
+[Wed Apr 20 21:44:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:37 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:44:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:37 2011] [info] arrival_rate_poll: num_arrivals: 10723, delta_num_arrivals: 83, num_departures: 10701, jobs_in_system: 22 
+[Wed Apr 20 21:44:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:38 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:44:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:38 2011] [info] arrival_rate_poll: num_arrivals: 10801, delta_num_arrivals: 78, num_departures: 10787, jobs_in_system: 14 
+[Wed Apr 20 21:44:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:39 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:44:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:39 2011] [info] arrival_rate_poll: num_arrivals: 10872, delta_num_arrivals: 71, num_departures: 10861, jobs_in_system: 11 
+[Wed Apr 20 21:44:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:40 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:40 2011] [info] arrival_rate_poll: num_arrivals: 10935, delta_num_arrivals: 63, num_departures: 10924, jobs_in_system: 11 
+[Wed Apr 20 21:44:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:41 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:44:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:41 2011] [info] arrival_rate_poll: num_arrivals: 10987, delta_num_arrivals: 52, num_departures: 10980, jobs_in_system: 7 
+[Wed Apr 20 21:44:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:42 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:44:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:42 2011] [info] arrival_rate_poll: num_arrivals: 11061, delta_num_arrivals: 74, num_departures: 11051, jobs_in_system: 10 
+[Wed Apr 20 21:44:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:43 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:44:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:43 2011] [info] arrival_rate_poll: num_arrivals: 11130, delta_num_arrivals: 69, num_departures: 11117, jobs_in_system: 13 
+[Wed Apr 20 21:44:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:44 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:44:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:44 2011] [info] arrival_rate_poll: num_arrivals: 11190, delta_num_arrivals: 60, num_departures: 11180, jobs_in_system: 10 
+[Wed Apr 20 21:44:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:45 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:44:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:45 2011] [info] arrival_rate_poll: num_arrivals: 11255, delta_num_arrivals: 65, num_departures: 11245, jobs_in_system: 10 
+[Wed Apr 20 21:44:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:46 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:44:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:46 2011] [info] arrival_rate_poll: num_arrivals: 11311, delta_num_arrivals: 56, num_departures: 11300, jobs_in_system: 11 
+[Wed Apr 20 21:44:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:47 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:44:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:47 2011] [info] arrival_rate_poll: num_arrivals: 11369, delta_num_arrivals: 58, num_departures: 11355, jobs_in_system: 14 
+[Wed Apr 20 21:44:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:48 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:48 2011] [info] arrival_rate_poll: num_arrivals: 11428, delta_num_arrivals: 59, num_departures: 11416, jobs_in_system: 12 
+[Wed Apr 20 21:44:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:49 2011] [info] busy_poll: 5 
+[Wed Apr 20 21:44:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:49 2011] [info] arrival_rate_poll: num_arrivals: 11493, delta_num_arrivals: 65, num_departures: 11488, jobs_in_system: 5 
+[Wed Apr 20 21:44:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:50 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:44:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:50 2011] [info] arrival_rate_poll: num_arrivals: 11556, delta_num_arrivals: 63, num_departures: 11540, jobs_in_system: 16 
+[Wed Apr 20 21:44:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:51 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:44:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:51 2011] [info] arrival_rate_poll: num_arrivals: 11618, delta_num_arrivals: 62, num_departures: 11609, jobs_in_system: 9 
+[Wed Apr 20 21:44:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:52 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:44:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:52 2011] [info] arrival_rate_poll: num_arrivals: 11683, delta_num_arrivals: 65, num_departures: 11672, jobs_in_system: 11 
+[Wed Apr 20 21:44:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:53 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:44:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:53 2011] [info] arrival_rate_poll: num_arrivals: 11738, delta_num_arrivals: 55, num_departures: 11732, jobs_in_system: 6 
+[Wed Apr 20 21:44:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:54 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:44:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:54 2011] [info] arrival_rate_poll: num_arrivals: 11809, delta_num_arrivals: 71, num_departures: 11792, jobs_in_system: 17 
+[Wed Apr 20 21:44:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:55 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:44:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:55 2011] [info] arrival_rate_poll: num_arrivals: 11888, delta_num_arrivals: 79, num_departures: 11867, jobs_in_system: 21 
+[Wed Apr 20 21:44:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:56 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:44:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:56 2011] [info] arrival_rate_poll: num_arrivals: 11964, delta_num_arrivals: 76, num_departures: 11949, jobs_in_system: 15 
+[Wed Apr 20 21:44:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:57 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:44:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:57 2011] [info] arrival_rate_poll: num_arrivals: 12047, delta_num_arrivals: 83, num_departures: 12035, jobs_in_system: 12 
+[Wed Apr 20 21:44:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:58 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:44:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:58 2011] [info] arrival_rate_poll: num_arrivals: 12103, delta_num_arrivals: 56, num_departures: 12089, jobs_in_system: 14 
+[Wed Apr 20 21:44:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:44:59 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:44:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:44:59 2011] [info] arrival_rate_poll: num_arrivals: 12167, delta_num_arrivals: 64, num_departures: 12154, jobs_in_system: 13 
+[Wed Apr 20 21:45:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:00 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:45:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:00 2011] [info] arrival_rate_poll: num_arrivals: 12231, delta_num_arrivals: 64, num_departures: 12213, jobs_in_system: 18 
+[Wed Apr 20 21:45:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:01 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:45:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:01 2011] [info] arrival_rate_poll: num_arrivals: 12304, delta_num_arrivals: 73, num_departures: 12284, jobs_in_system: 20 
+[Wed Apr 20 21:45:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:02 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:45:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:02 2011] [info] arrival_rate_poll: num_arrivals: 12367, delta_num_arrivals: 63, num_departures: 12357, jobs_in_system: 10 
+[Wed Apr 20 21:45:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:03 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:45:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:03 2011] [info] arrival_rate_poll: num_arrivals: 12426, delta_num_arrivals: 59, num_departures: 12412, jobs_in_system: 14 
+[Wed Apr 20 21:45:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:04 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:45:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:04 2011] [info] arrival_rate_poll: num_arrivals: 12486, delta_num_arrivals: 60, num_departures: 12477, jobs_in_system: 9 
+[Wed Apr 20 21:45:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:05 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:45:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:05 2011] [info] arrival_rate_poll: num_arrivals: 12541, delta_num_arrivals: 55, num_departures: 12531, jobs_in_system: 10 
+[Wed Apr 20 21:45:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:06 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:45:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:06 2011] [info] arrival_rate_poll: num_arrivals: 12601, delta_num_arrivals: 60, num_departures: 12594, jobs_in_system: 7 
+[Wed Apr 20 21:45:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:07 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:45:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:07 2011] [info] arrival_rate_poll: num_arrivals: 12667, delta_num_arrivals: 66, num_departures: 12649, jobs_in_system: 18 
+[Wed Apr 20 21:45:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:08 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:45:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:08 2011] [info] arrival_rate_poll: num_arrivals: 12733, delta_num_arrivals: 66, num_departures: 12719, jobs_in_system: 14 
+[Wed Apr 20 21:45:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:09 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:45:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:09 2011] [info] arrival_rate_poll: num_arrivals: 12792, delta_num_arrivals: 59, num_departures: 12777, jobs_in_system: 15 
+[Wed Apr 20 21:45:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:10 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:45:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:10 2011] [info] arrival_rate_poll: num_arrivals: 12851, delta_num_arrivals: 59, num_departures: 12835, jobs_in_system: 16 
+[Wed Apr 20 21:45:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:11 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:45:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:11 2011] [info] arrival_rate_poll: num_arrivals: 12921, delta_num_arrivals: 70, num_departures: 12909, jobs_in_system: 12 
+[Wed Apr 20 21:45:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:12 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:45:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:12 2011] [info] arrival_rate_poll: num_arrivals: 12978, delta_num_arrivals: 57, num_departures: 12962, jobs_in_system: 16 
+[Wed Apr 20 21:45:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:13 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:45:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:13 2011] [info] arrival_rate_poll: num_arrivals: 13045, delta_num_arrivals: 67, num_departures: 13034, jobs_in_system: 11 
+[Wed Apr 20 21:45:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:14 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:45:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:14 2011] [info] arrival_rate_poll: num_arrivals: 13133, delta_num_arrivals: 88, num_departures: 13118, jobs_in_system: 15 
+[Wed Apr 20 21:45:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:15 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:45:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:15 2011] [info] arrival_rate_poll: num_arrivals: 13213, delta_num_arrivals: 80, num_departures: 13189, jobs_in_system: 24 
+[Wed Apr 20 21:45:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:16 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:45:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:17 2011] [info] arrival_rate_poll: num_arrivals: 13277, delta_num_arrivals: 64, num_departures: 13268, jobs_in_system: 9 
+[Wed Apr 20 21:45:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:18 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:45:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:18 2011] [info] arrival_rate_poll: num_arrivals: 13339, delta_num_arrivals: 62, num_departures: 13333, jobs_in_system: 6 
+[Wed Apr 20 21:45:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:19 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:45:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:19 2011] [info] arrival_rate_poll: num_arrivals: 13395, delta_num_arrivals: 56, num_departures: 13382, jobs_in_system: 13 
+[Wed Apr 20 21:45:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:20 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:45:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:20 2011] [info] arrival_rate_poll: num_arrivals: 13466, delta_num_arrivals: 71, num_departures: 13458, jobs_in_system: 8 
+[Wed Apr 20 21:45:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:21 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:45:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:21 2011] [info] arrival_rate_poll: num_arrivals: 13540, delta_num_arrivals: 74, num_departures: 13523, jobs_in_system: 17 
+[Wed Apr 20 21:45:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:22 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:45:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:22 2011] [info] arrival_rate_poll: num_arrivals: 13602, delta_num_arrivals: 62, num_departures: 13588, jobs_in_system: 14 
+[Wed Apr 20 21:45:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:23 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:45:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:23 2011] [info] arrival_rate_poll: num_arrivals: 13661, delta_num_arrivals: 59, num_departures: 13652, jobs_in_system: 9 
+[Wed Apr 20 21:45:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:24 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:45:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:24 2011] [info] arrival_rate_poll: num_arrivals: 13716, delta_num_arrivals: 55, num_departures: 13707, jobs_in_system: 9 
+[Wed Apr 20 21:45:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:25 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:45:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:25 2011] [info] arrival_rate_poll: num_arrivals: 13777, delta_num_arrivals: 61, num_departures: 13765, jobs_in_system: 12 
+[Wed Apr 20 21:45:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:26 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:45:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:26 2011] [info] arrival_rate_poll: num_arrivals: 13837, delta_num_arrivals: 60, num_departures: 13825, jobs_in_system: 12 
+[Wed Apr 20 21:45:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:27 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:45:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:27 2011] [info] arrival_rate_poll: num_arrivals: 13898, delta_num_arrivals: 61, num_departures: 13892, jobs_in_system: 6 
+[Wed Apr 20 21:45:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:28 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:45:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:28 2011] [info] arrival_rate_poll: num_arrivals: 13968, delta_num_arrivals: 70, num_departures: 13948, jobs_in_system: 20 
+[Wed Apr 20 21:45:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:29 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:45:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:29 2011] [info] arrival_rate_poll: num_arrivals: 14026, delta_num_arrivals: 58, num_departures: 14016, jobs_in_system: 10 
+[Wed Apr 20 21:45:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:30 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:45:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:30 2011] [info] arrival_rate_poll: num_arrivals: 14091, delta_num_arrivals: 65, num_departures: 14079, jobs_in_system: 12 
+[Wed Apr 20 21:45:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:31 2011] [info] busy_poll: 5 
+[Wed Apr 20 21:45:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:31 2011] [info] arrival_rate_poll: num_arrivals: 14144, delta_num_arrivals: 53, num_departures: 14139, jobs_in_system: 5 
+[Wed Apr 20 21:45:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:32 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:45:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:32 2011] [info] arrival_rate_poll: num_arrivals: 14217, delta_num_arrivals: 73, num_departures: 14202, jobs_in_system: 15 
+[Wed Apr 20 21:45:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:33 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:45:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:33 2011] [info] arrival_rate_poll: num_arrivals: 14298, delta_num_arrivals: 81, num_departures: 14281, jobs_in_system: 17 
+[Wed Apr 20 21:45:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:34 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:45:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:34 2011] [info] arrival_rate_poll: num_arrivals: 14370, delta_num_arrivals: 72, num_departures: 14362, jobs_in_system: 8 
+[Wed Apr 20 21:45:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:35 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:45:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:35 2011] [info] arrival_rate_poll: num_arrivals: 14454, delta_num_arrivals: 84, num_departures: 14444, jobs_in_system: 10 
+[Wed Apr 20 21:45:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:36 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:45:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:36 2011] [info] arrival_rate_poll: num_arrivals: 14511, delta_num_arrivals: 57, num_departures: 14496, jobs_in_system: 15 
+[Wed Apr 20 21:45:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:37 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:45:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:37 2011] [info] arrival_rate_poll: num_arrivals: 14572, delta_num_arrivals: 61, num_departures: 14565, jobs_in_system: 7 
+[Wed Apr 20 21:45:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:38 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:45:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:38 2011] [info] arrival_rate_poll: num_arrivals: 14638, delta_num_arrivals: 66, num_departures: 14626, jobs_in_system: 12 
+[Wed Apr 20 21:45:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:39 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:45:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:39 2011] [info] arrival_rate_poll: num_arrivals: 14707, delta_num_arrivals: 69, num_departures: 14693, jobs_in_system: 14 
+[Wed Apr 20 21:45:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:40 2011] [info] busy_poll: 6 
+[Wed Apr 20 21:45:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:40 2011] [info] arrival_rate_poll: num_arrivals: 14772, delta_num_arrivals: 65, num_departures: 14766, jobs_in_system: 6 
+[Wed Apr 20 21:45:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:41 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:45:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:41 2011] [info] arrival_rate_poll: num_arrivals: 14834, delta_num_arrivals: 62, num_departures: 14820, jobs_in_system: 14 
+[Wed Apr 20 21:45:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:42 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:45:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:42 2011] [info] arrival_rate_poll: num_arrivals: 14891, delta_num_arrivals: 57, num_departures: 14884, jobs_in_system: 7 
+[Wed Apr 20 21:45:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:43 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:45:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:43 2011] [info] arrival_rate_poll: num_arrivals: 14947, delta_num_arrivals: 56, num_departures: 14934, jobs_in_system: 13 
+[Wed Apr 20 21:45:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:44 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:45:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:44 2011] [info] arrival_rate_poll: num_arrivals: 15011, delta_num_arrivals: 64, num_departures: 14997, jobs_in_system: 14 
+[Wed Apr 20 21:45:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:45 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:45:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:45 2011] [info] arrival_rate_poll: num_arrivals: 15079, delta_num_arrivals: 68, num_departures: 15057, jobs_in_system: 22 
+[Wed Apr 20 21:45:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:46 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:45:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:46 2011] [info] arrival_rate_poll: num_arrivals: 15138, delta_num_arrivals: 59, num_departures: 15128, jobs_in_system: 10 
+[Wed Apr 20 21:45:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:47 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:45:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:47 2011] [info] arrival_rate_poll: num_arrivals: 15200, delta_num_arrivals: 62, num_departures: 15192, jobs_in_system: 8 
+[Wed Apr 20 21:45:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:48 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:45:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:48 2011] [info] arrival_rate_poll: num_arrivals: 15260, delta_num_arrivals: 60, num_departures: 15248, jobs_in_system: 12 
+[Wed Apr 20 21:45:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:49 2011] [info] busy_poll: 4 
+[Wed Apr 20 21:45:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:49 2011] [info] arrival_rate_poll: num_arrivals: 15322, delta_num_arrivals: 62, num_departures: 15318, jobs_in_system: 4 
+[Wed Apr 20 21:45:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:50 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:45:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:50 2011] [info] arrival_rate_poll: num_arrivals: 15382, delta_num_arrivals: 60, num_departures: 15370, jobs_in_system: 12 
+[Wed Apr 20 21:45:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:51 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:45:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:51 2011] [info] arrival_rate_poll: num_arrivals: 15453, delta_num_arrivals: 71, num_departures: 15442, jobs_in_system: 11 
+[Wed Apr 20 21:45:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:52 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:45:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:52 2011] [info] arrival_rate_poll: num_arrivals: 15541, delta_num_arrivals: 88, num_departures: 15522, jobs_in_system: 19 
+[Wed Apr 20 21:45:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:53 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:45:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:53 2011] [info] arrival_rate_poll: num_arrivals: 15623, delta_num_arrivals: 82, num_departures: 15605, jobs_in_system: 18 
+[Wed Apr 20 21:45:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:54 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:45:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:54 2011] [info] arrival_rate_poll: num_arrivals: 15684, delta_num_arrivals: 61, num_departures: 15674, jobs_in_system: 10 
+[Wed Apr 20 21:45:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:55 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:45:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:55 2011] [info] arrival_rate_poll: num_arrivals: 15746, delta_num_arrivals: 62, num_departures: 15738, jobs_in_system: 8 
+[Wed Apr 20 21:45:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:56 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:45:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:56 2011] [info] arrival_rate_poll: num_arrivals: 15802, delta_num_arrivals: 56, num_departures: 15792, jobs_in_system: 10 
+[Wed Apr 20 21:45:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:57 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:45:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:57 2011] [info] arrival_rate_poll: num_arrivals: 15875, delta_num_arrivals: 73, num_departures: 15864, jobs_in_system: 11 
+[Wed Apr 20 21:45:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:58 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:45:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:58 2011] [info] arrival_rate_poll: num_arrivals: 15945, delta_num_arrivals: 70, num_departures: 15933, jobs_in_system: 12 
+[Wed Apr 20 21:45:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:45:59 2011] [info] busy_poll: 5 
+[Wed Apr 20 21:45:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:45:59 2011] [info] arrival_rate_poll: num_arrivals: 16004, delta_num_arrivals: 59, num_departures: 15999, jobs_in_system: 5 
+[Wed Apr 20 21:46:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:00 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:46:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:00 2011] [info] arrival_rate_poll: num_arrivals: 16064, delta_num_arrivals: 60, num_departures: 16057, jobs_in_system: 7 
+[Wed Apr 20 21:46:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:01 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:46:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:01 2011] [info] arrival_rate_poll: num_arrivals: 16123, delta_num_arrivals: 59, num_departures: 16113, jobs_in_system: 10 
+[Wed Apr 20 21:46:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:02 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:46:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:02 2011] [info] arrival_rate_poll: num_arrivals: 16182, delta_num_arrivals: 59, num_departures: 16174, jobs_in_system: 8 
+[Wed Apr 20 21:46:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:03 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:03 2011] [info] arrival_rate_poll: num_arrivals: 16244, delta_num_arrivals: 62, num_departures: 16230, jobs_in_system: 14 
+[Wed Apr 20 21:46:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:04 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:04 2011] [info] arrival_rate_poll: num_arrivals: 16308, delta_num_arrivals: 64, num_departures: 16296, jobs_in_system: 12 
+[Wed Apr 20 21:46:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:05 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:46:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:05 2011] [info] arrival_rate_poll: num_arrivals: 16372, delta_num_arrivals: 64, num_departures: 16361, jobs_in_system: 11 
+[Wed Apr 20 21:46:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:06 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:46:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:06 2011] [info] arrival_rate_poll: num_arrivals: 16431, delta_num_arrivals: 59, num_departures: 16420, jobs_in_system: 11 
+[Wed Apr 20 21:46:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:07 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:46:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:07 2011] [info] arrival_rate_poll: num_arrivals: 16499, delta_num_arrivals: 68, num_departures: 16484, jobs_in_system: 15 
+[Wed Apr 20 21:46:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:08 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:08 2011] [info] arrival_rate_poll: num_arrivals: 16553, delta_num_arrivals: 54, num_departures: 16541, jobs_in_system: 12 
+[Wed Apr 20 21:46:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:09 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:46:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:09 2011] [info] arrival_rate_poll: num_arrivals: 16621, delta_num_arrivals: 68, num_departures: 16610, jobs_in_system: 11 
+[Wed Apr 20 21:46:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:10 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:46:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:10 2011] [info] arrival_rate_poll: num_arrivals: 16709, delta_num_arrivals: 88, num_departures: 16686, jobs_in_system: 23 
+[Wed Apr 20 21:46:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:11 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:46:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:11 2011] [info] arrival_rate_poll: num_arrivals: 16784, delta_num_arrivals: 75, num_departures: 16765, jobs_in_system: 19 
+[Wed Apr 20 21:46:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:12 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:46:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:12 2011] [info] arrival_rate_poll: num_arrivals: 16860, delta_num_arrivals: 76, num_departures: 16849, jobs_in_system: 11 
+[Wed Apr 20 21:46:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:13 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:46:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:13 2011] [info] arrival_rate_poll: num_arrivals: 16918, delta_num_arrivals: 58, num_departures: 16908, jobs_in_system: 10 
+[Wed Apr 20 21:46:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:14 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:46:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:14 2011] [info] arrival_rate_poll: num_arrivals: 16980, delta_num_arrivals: 62, num_departures: 16970, jobs_in_system: 10 
+[Wed Apr 20 21:46:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:15 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:46:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:15 2011] [info] arrival_rate_poll: num_arrivals: 17049, delta_num_arrivals: 69, num_departures: 17035, jobs_in_system: 14 
+[Wed Apr 20 21:46:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:16 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:46:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:16 2011] [info] arrival_rate_poll: num_arrivals: 17115, delta_num_arrivals: 66, num_departures: 17106, jobs_in_system: 9 
+[Wed Apr 20 21:46:17 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:17 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:46:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:17 2011] [info] arrival_rate_poll: num_arrivals: 17179, delta_num_arrivals: 64, num_departures: 17171, jobs_in_system: 8 
+[Wed Apr 20 21:46:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:18 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:46:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:18 2011] [info] arrival_rate_poll: num_arrivals: 17239, delta_num_arrivals: 60, num_departures: 17231, jobs_in_system: 8 
+[Wed Apr 20 21:46:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:19 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:46:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:19 2011] [info] arrival_rate_poll: num_arrivals: 17296, delta_num_arrivals: 57, num_departures: 17288, jobs_in_system: 8 
+[Wed Apr 20 21:46:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:20 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:20 2011] [info] arrival_rate_poll: num_arrivals: 17355, delta_num_arrivals: 59, num_departures: 17342, jobs_in_system: 13 
+[Wed Apr 20 21:46:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:21 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:46:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:21 2011] [info] arrival_rate_poll: num_arrivals: 17414, delta_num_arrivals: 59, num_departures: 17407, jobs_in_system: 7 
+[Wed Apr 20 21:46:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:22 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:22 2011] [info] arrival_rate_poll: num_arrivals: 17485, delta_num_arrivals: 71, num_departures: 17472, jobs_in_system: 13 
+[Wed Apr 20 21:46:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:23 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:46:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:23 2011] [info] arrival_rate_poll: num_arrivals: 17542, delta_num_arrivals: 57, num_departures: 17535, jobs_in_system: 7 
+[Wed Apr 20 21:46:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:24 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:46:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:24 2011] [info] arrival_rate_poll: num_arrivals: 17606, delta_num_arrivals: 64, num_departures: 17597, jobs_in_system: 9 
+[Wed Apr 20 21:46:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:25 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:46:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:25 2011] [info] arrival_rate_poll: num_arrivals: 17672, delta_num_arrivals: 66, num_departures: 17655, jobs_in_system: 17 
+[Wed Apr 20 21:46:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:26 2011] [info] busy_poll: 5 
+[Wed Apr 20 21:46:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:26 2011] [info] arrival_rate_poll: num_arrivals: 17726, delta_num_arrivals: 54, num_departures: 17721, jobs_in_system: 5 
+[Wed Apr 20 21:46:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:27 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:27 2011] [info] arrival_rate_poll: num_arrivals: 17790, delta_num_arrivals: 64, num_departures: 17778, jobs_in_system: 12 
+[Wed Apr 20 21:46:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:28 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:46:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:28 2011] [info] arrival_rate_poll: num_arrivals: 17869, delta_num_arrivals: 79, num_departures: 17848, jobs_in_system: 21 
+[Wed Apr 20 21:46:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:29 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:46:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:29 2011] [info] arrival_rate_poll: num_arrivals: 17951, delta_num_arrivals: 82, num_departures: 17936, jobs_in_system: 15 
+[Wed Apr 20 21:46:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:30 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:46:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:30 2011] [info] arrival_rate_poll: num_arrivals: 18037, delta_num_arrivals: 86, num_departures: 18014, jobs_in_system: 23 
+[Wed Apr 20 21:46:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:31 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:31 2011] [info] arrival_rate_poll: num_arrivals: 18096, delta_num_arrivals: 59, num_departures: 18084, jobs_in_system: 12 
+[Wed Apr 20 21:46:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:32 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:32 2011] [info] arrival_rate_poll: num_arrivals: 18166, delta_num_arrivals: 70, num_departures: 18153, jobs_in_system: 13 
+[Wed Apr 20 21:46:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:33 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:33 2011] [info] arrival_rate_poll: num_arrivals: 18235, delta_num_arrivals: 69, num_departures: 18222, jobs_in_system: 13 
+[Wed Apr 20 21:46:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:34 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:46:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:34 2011] [info] arrival_rate_poll: num_arrivals: 18310, delta_num_arrivals: 75, num_departures: 18300, jobs_in_system: 10 
+[Wed Apr 20 21:46:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:35 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:35 2011] [info] arrival_rate_poll: num_arrivals: 18380, delta_num_arrivals: 70, num_departures: 18367, jobs_in_system: 13 
+[Wed Apr 20 21:46:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:36 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:36 2011] [info] arrival_rate_poll: num_arrivals: 18448, delta_num_arrivals: 68, num_departures: 18436, jobs_in_system: 12 
+[Wed Apr 20 21:46:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:37 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:46:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:37 2011] [info] arrival_rate_poll: num_arrivals: 18510, delta_num_arrivals: 62, num_departures: 18493, jobs_in_system: 17 
+[Wed Apr 20 21:46:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:38 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:38 2011] [info] arrival_rate_poll: num_arrivals: 18573, delta_num_arrivals: 63, num_departures: 18560, jobs_in_system: 13 
+[Wed Apr 20 21:46:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:39 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:39 2011] [info] arrival_rate_poll: num_arrivals: 18637, delta_num_arrivals: 64, num_departures: 18625, jobs_in_system: 12 
+[Wed Apr 20 21:46:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:40 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:40 2011] [info] arrival_rate_poll: num_arrivals: 18707, delta_num_arrivals: 70, num_departures: 18695, jobs_in_system: 12 
+[Wed Apr 20 21:46:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:41 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:41 2011] [info] arrival_rate_poll: num_arrivals: 18774, delta_num_arrivals: 67, num_departures: 18761, jobs_in_system: 13 
+[Wed Apr 20 21:46:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:42 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:42 2011] [info] arrival_rate_poll: num_arrivals: 18840, delta_num_arrivals: 66, num_departures: 18828, jobs_in_system: 12 
+[Wed Apr 20 21:46:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:43 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:43 2011] [info] arrival_rate_poll: num_arrivals: 18915, delta_num_arrivals: 75, num_departures: 18904, jobs_in_system: 11 
+[Wed Apr 20 21:46:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:44 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:46:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:44 2011] [info] arrival_rate_poll: num_arrivals: 18977, delta_num_arrivals: 62, num_departures: 18958, jobs_in_system: 19 
+[Wed Apr 20 21:46:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:45 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:46:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:45 2011] [info] arrival_rate_poll: num_arrivals: 19052, delta_num_arrivals: 75, num_departures: 19040, jobs_in_system: 12 
+[Wed Apr 20 21:46:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:46 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:46:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:46 2011] [info] arrival_rate_poll: num_arrivals: 19143, delta_num_arrivals: 91, num_departures: 19130, jobs_in_system: 13 
+[Wed Apr 20 21:46:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:47 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:46:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:47 2011] [info] arrival_rate_poll: num_arrivals: 19227, delta_num_arrivals: 84, num_departures: 19209, jobs_in_system: 18 
+[Wed Apr 20 21:46:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:48 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:46:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:48 2011] [info] arrival_rate_poll: num_arrivals: 19304, delta_num_arrivals: 77, num_departures: 19285, jobs_in_system: 19 
+[Wed Apr 20 21:46:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:49 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:46:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:49 2011] [info] arrival_rate_poll: num_arrivals: 19382, delta_num_arrivals: 78, num_departures: 19373, jobs_in_system: 9 
+[Wed Apr 20 21:46:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:50 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:46:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:50 2011] [info] arrival_rate_poll: num_arrivals: 19456, delta_num_arrivals: 74, num_departures: 19442, jobs_in_system: 14 
+[Wed Apr 20 21:46:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:51 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:46:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:51 2011] [info] arrival_rate_poll: num_arrivals: 19530, delta_num_arrivals: 74, num_departures: 19509, jobs_in_system: 21 
+[Wed Apr 20 21:46:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:52 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:52 2011] [info] arrival_rate_poll: num_arrivals: 19608, delta_num_arrivals: 78, num_departures: 19595, jobs_in_system: 13 
+[Wed Apr 20 21:46:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:53 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:53 2011] [info] arrival_rate_poll: num_arrivals: 19685, delta_num_arrivals: 77, num_departures: 19672, jobs_in_system: 13 
+[Wed Apr 20 21:46:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:54 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:46:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:54 2011] [info] arrival_rate_poll: num_arrivals: 19758, delta_num_arrivals: 73, num_departures: 19743, jobs_in_system: 15 
+[Wed Apr 20 21:46:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:55 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:46:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:55 2011] [info] arrival_rate_poll: num_arrivals: 19820, delta_num_arrivals: 62, num_departures: 19810, jobs_in_system: 10 
+[Wed Apr 20 21:46:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:56 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:46:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:56 2011] [info] arrival_rate_poll: num_arrivals: 19891, delta_num_arrivals: 71, num_departures: 19879, jobs_in_system: 12 
+[Wed Apr 20 21:46:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:57 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:46:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:57 2011] [info] arrival_rate_poll: num_arrivals: 19966, delta_num_arrivals: 75, num_departures: 19948, jobs_in_system: 18 
+[Wed Apr 20 21:46:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:58 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:46:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:58 2011] [info] arrival_rate_poll: num_arrivals: 20038, delta_num_arrivals: 72, num_departures: 20024, jobs_in_system: 14 
+[Wed Apr 20 21:46:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:46:59 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:46:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:46:59 2011] [info] arrival_rate_poll: num_arrivals: 20112, delta_num_arrivals: 74, num_departures: 20101, jobs_in_system: 11 
+[Wed Apr 20 21:47:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:00 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:47:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:00 2011] [info] arrival_rate_poll: num_arrivals: 20184, delta_num_arrivals: 72, num_departures: 20173, jobs_in_system: 11 
+[Wed Apr 20 21:47:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:01 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:47:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:01 2011] [info] arrival_rate_poll: num_arrivals: 20252, delta_num_arrivals: 68, num_departures: 20238, jobs_in_system: 14 
+[Wed Apr 20 21:47:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:02 2011] [info] busy_poll: 25 
+[Wed Apr 20 21:47:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:02 2011] [info] arrival_rate_poll: num_arrivals: 20337, delta_num_arrivals: 85, num_departures: 20312, jobs_in_system: 25 
+[Wed Apr 20 21:47:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:03 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:47:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:03 2011] [info] arrival_rate_poll: num_arrivals: 20431, delta_num_arrivals: 94, num_departures: 20409, jobs_in_system: 22 
+[Wed Apr 20 21:47:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:04 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:47:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:04 2011] [info] arrival_rate_poll: num_arrivals: 20518, delta_num_arrivals: 87, num_departures: 20501, jobs_in_system: 17 
+[Wed Apr 20 21:47:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:05 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:47:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:05 2011] [info] arrival_rate_poll: num_arrivals: 20603, delta_num_arrivals: 85, num_departures: 20589, jobs_in_system: 14 
+[Wed Apr 20 21:47:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:06 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:47:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:06 2011] [info] arrival_rate_poll: num_arrivals: 20670, delta_num_arrivals: 67, num_departures: 20660, jobs_in_system: 10 
+[Wed Apr 20 21:47:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:07 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:47:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:07 2011] [info] arrival_rate_poll: num_arrivals: 20744, delta_num_arrivals: 74, num_departures: 20721, jobs_in_system: 23 
+[Wed Apr 20 21:47:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:08 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:47:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:08 2011] [info] arrival_rate_poll: num_arrivals: 20811, delta_num_arrivals: 67, num_departures: 20798, jobs_in_system: 13 
+[Wed Apr 20 21:47:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:09 2011] [info] busy_poll: 3 
+[Wed Apr 20 21:47:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:09 2011] [info] arrival_rate_poll: num_arrivals: 20883, delta_num_arrivals: 72, num_departures: 20880, jobs_in_system: 3 
+[Wed Apr 20 21:47:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:10 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:47:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:10 2011] [info] arrival_rate_poll: num_arrivals: 20972, delta_num_arrivals: 89, num_departures: 20960, jobs_in_system: 12 
+[Wed Apr 20 21:47:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:11 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:47:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:11 2011] [info] arrival_rate_poll: num_arrivals: 21063, delta_num_arrivals: 91, num_departures: 21040, jobs_in_system: 23 
+[Wed Apr 20 21:47:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:12 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:47:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:12 2011] [info] arrival_rate_poll: num_arrivals: 21136, delta_num_arrivals: 73, num_departures: 21114, jobs_in_system: 22 
+[Wed Apr 20 21:47:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:13 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:47:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:13 2011] [info] arrival_rate_poll: num_arrivals: 21209, delta_num_arrivals: 73, num_departures: 21190, jobs_in_system: 19 
+[Wed Apr 20 21:47:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:14 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:47:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:14 2011] [info] arrival_rate_poll: num_arrivals: 21279, delta_num_arrivals: 70, num_departures: 21265, jobs_in_system: 14 
+[Wed Apr 20 21:47:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:15 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:47:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:15 2011] [info] arrival_rate_poll: num_arrivals: 21358, delta_num_arrivals: 79, num_departures: 21339, jobs_in_system: 19 
+[Wed Apr 20 21:47:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:16 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:47:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:16 2011] [info] arrival_rate_poll: num_arrivals: 21438, delta_num_arrivals: 80, num_departures: 21420, jobs_in_system: 18 
+[Wed Apr 20 21:47:17 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:17 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:47:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:17 2011] [info] arrival_rate_poll: num_arrivals: 21515, delta_num_arrivals: 77, num_departures: 21499, jobs_in_system: 16 
+[Wed Apr 20 21:47:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:18 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:47:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:18 2011] [info] arrival_rate_poll: num_arrivals: 21596, delta_num_arrivals: 81, num_departures: 21577, jobs_in_system: 19 
+[Wed Apr 20 21:47:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:19 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:47:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:19 2011] [info] arrival_rate_poll: num_arrivals: 21667, delta_num_arrivals: 71, num_departures: 21649, jobs_in_system: 18 
+[Wed Apr 20 21:47:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:20 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:47:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:20 2011] [info] arrival_rate_poll: num_arrivals: 21758, delta_num_arrivals: 91, num_departures: 21742, jobs_in_system: 16 
+[Wed Apr 20 21:47:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:21 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:47:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:21 2011] [info] arrival_rate_poll: num_arrivals: 21862, delta_num_arrivals: 104, num_departures: 21841, jobs_in_system: 21 
+[Wed Apr 20 21:47:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:22 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:47:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:22 2011] [info] arrival_rate_poll: num_arrivals: 21960, delta_num_arrivals: 98, num_departures: 21941, jobs_in_system: 19 
+[Wed Apr 20 21:47:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:23 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:47:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:23 2011] [info] arrival_rate_poll: num_arrivals: 22047, delta_num_arrivals: 87, num_departures: 22026, jobs_in_system: 21 
+[Wed Apr 20 21:47:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:24 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:47:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:24 2011] [info] arrival_rate_poll: num_arrivals: 22098, delta_num_arrivals: 51, num_departures: 22090, jobs_in_system: 8 
+[Wed Apr 20 21:47:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:25 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:47:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:25 2011] [info] arrival_rate_poll: num_arrivals: 22164, delta_num_arrivals: 66, num_departures: 22149, jobs_in_system: 15 
+[Wed Apr 20 21:47:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:26 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:47:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:26 2011] [info] arrival_rate_poll: num_arrivals: 22252, delta_num_arrivals: 88, num_departures: 22232, jobs_in_system: 20 
+[Wed Apr 20 21:47:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:27 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:47:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:27 2011] [info] arrival_rate_poll: num_arrivals: 22333, delta_num_arrivals: 81, num_departures: 22316, jobs_in_system: 17 
+[Wed Apr 20 21:47:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:28 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:47:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:28 2011] [info] arrival_rate_poll: num_arrivals: 22411, delta_num_arrivals: 78, num_departures: 22394, jobs_in_system: 17 
+[Wed Apr 20 21:47:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:29 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:47:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:29 2011] [info] arrival_rate_poll: num_arrivals: 22506, delta_num_arrivals: 95, num_departures: 22491, jobs_in_system: 15 
+[Wed Apr 20 21:47:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:30 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:47:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:30 2011] [info] arrival_rate_poll: num_arrivals: 22590, delta_num_arrivals: 84, num_departures: 22575, jobs_in_system: 15 
+[Wed Apr 20 21:47:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:31 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:47:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:31 2011] [info] arrival_rate_poll: num_arrivals: 22671, delta_num_arrivals: 81, num_departures: 22660, jobs_in_system: 11 
+[Wed Apr 20 21:47:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:32 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:47:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:32 2011] [info] arrival_rate_poll: num_arrivals: 22745, delta_num_arrivals: 74, num_departures: 22727, jobs_in_system: 18 
+[Wed Apr 20 21:47:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:33 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:47:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:33 2011] [info] arrival_rate_poll: num_arrivals: 22825, delta_num_arrivals: 80, num_departures: 22813, jobs_in_system: 12 
+[Wed Apr 20 21:47:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:34 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:47:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:34 2011] [info] arrival_rate_poll: num_arrivals: 22915, delta_num_arrivals: 90, num_departures: 22894, jobs_in_system: 21 
+[Wed Apr 20 21:47:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:35 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:47:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:35 2011] [info] arrival_rate_poll: num_arrivals: 22996, delta_num_arrivals: 81, num_departures: 22982, jobs_in_system: 14 
+[Wed Apr 20 21:47:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:36 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:47:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:36 2011] [info] arrival_rate_poll: num_arrivals: 23082, delta_num_arrivals: 86, num_departures: 23064, jobs_in_system: 18 
+[Wed Apr 20 21:47:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:37 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:47:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:37 2011] [info] arrival_rate_poll: num_arrivals: 23156, delta_num_arrivals: 74, num_departures: 23142, jobs_in_system: 14 
+[Wed Apr 20 21:47:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:38 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:47:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:38 2011] [info] arrival_rate_poll: num_arrivals: 23252, delta_num_arrivals: 96, num_departures: 23233, jobs_in_system: 19 
+[Wed Apr 20 21:47:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:39 2011] [info] busy_poll: 30 
+[Wed Apr 20 21:47:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:39 2011] [info] arrival_rate_poll: num_arrivals: 23363, delta_num_arrivals: 111, num_departures: 23333, jobs_in_system: 30 
+[Wed Apr 20 21:47:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:40 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:47:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:40 2011] [info] arrival_rate_poll: num_arrivals: 23464, delta_num_arrivals: 101, num_departures: 23455, jobs_in_system: 9 
+[Wed Apr 20 21:47:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:41 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:47:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:41 2011] [info] arrival_rate_poll: num_arrivals: 23552, delta_num_arrivals: 88, num_departures: 23542, jobs_in_system: 10 
+[Wed Apr 20 21:47:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:42 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:47:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:42 2011] [info] arrival_rate_poll: num_arrivals: 23615, delta_num_arrivals: 63, num_departures: 23599, jobs_in_system: 16 
+[Wed Apr 20 21:47:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:43 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:47:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:43 2011] [info] arrival_rate_poll: num_arrivals: 23684, delta_num_arrivals: 69, num_departures: 23672, jobs_in_system: 12 
+[Wed Apr 20 21:47:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:44 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:47:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:44 2011] [info] arrival_rate_poll: num_arrivals: 23759, delta_num_arrivals: 75, num_departures: 23736, jobs_in_system: 23 
+[Wed Apr 20 21:47:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:45 2011] [info] busy_poll: 26 
+[Wed Apr 20 21:47:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:45 2011] [info] arrival_rate_poll: num_arrivals: 23851, delta_num_arrivals: 92, num_departures: 23825, jobs_in_system: 26 
+[Wed Apr 20 21:47:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:46 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:47:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:46 2011] [info] arrival_rate_poll: num_arrivals: 23936, delta_num_arrivals: 85, num_departures: 23912, jobs_in_system: 24 
+[Wed Apr 20 21:47:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:47 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:47:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:47 2011] [info] arrival_rate_poll: num_arrivals: 24024, delta_num_arrivals: 88, num_departures: 23999, jobs_in_system: 25 
+[Wed Apr 20 21:47:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:48 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:47:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:48 2011] [info] arrival_rate_poll: num_arrivals: 24119, delta_num_arrivals: 95, num_departures: 24103, jobs_in_system: 16 
+[Wed Apr 20 21:47:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:49 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:47:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:49 2011] [info] arrival_rate_poll: num_arrivals: 24206, delta_num_arrivals: 87, num_departures: 24197, jobs_in_system: 9 
+[Wed Apr 20 21:47:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:50 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:47:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:50 2011] [info] arrival_rate_poll: num_arrivals: 24291, delta_num_arrivals: 85, num_departures: 24281, jobs_in_system: 10 
+[Wed Apr 20 21:47:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:51 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:47:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:51 2011] [info] arrival_rate_poll: num_arrivals: 24377, delta_num_arrivals: 86, num_departures: 24356, jobs_in_system: 21 
+[Wed Apr 20 21:47:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:52 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:47:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:52 2011] [info] arrival_rate_poll: num_arrivals: 24466, delta_num_arrivals: 89, num_departures: 24446, jobs_in_system: 20 
+[Wed Apr 20 21:47:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:53 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:47:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:53 2011] [info] arrival_rate_poll: num_arrivals: 24551, delta_num_arrivals: 85, num_departures: 24539, jobs_in_system: 12 
+[Wed Apr 20 21:47:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:54 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:47:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:54 2011] [info] arrival_rate_poll: num_arrivals: 24639, delta_num_arrivals: 88, num_departures: 24626, jobs_in_system: 13 
+[Wed Apr 20 21:47:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:55 2011] [info] busy_poll: 8 
+[Wed Apr 20 21:47:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:55 2011] [info] arrival_rate_poll: num_arrivals: 24726, delta_num_arrivals: 87, num_departures: 24718, jobs_in_system: 8 
+[Wed Apr 20 21:47:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:56 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:47:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:56 2011] [info] arrival_rate_poll: num_arrivals: 24820, delta_num_arrivals: 94, num_departures: 24803, jobs_in_system: 17 
+[Wed Apr 20 21:47:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:57 2011] [info] busy_poll: 36 
+[Wed Apr 20 21:47:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:57 2011] [info] arrival_rate_poll: num_arrivals: 24940, delta_num_arrivals: 120, num_departures: 24903, jobs_in_system: 37 
+[Wed Apr 20 21:47:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:58 2011] [info] busy_poll: 30 
+[Wed Apr 20 21:47:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:58 2011] [info] arrival_rate_poll: num_arrivals: 25048, delta_num_arrivals: 108, num_departures: 25018, jobs_in_system: 30 
+[Wed Apr 20 21:47:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:47:59 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:47:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:47:59 2011] [info] arrival_rate_poll: num_arrivals: 25147, delta_num_arrivals: 99, num_departures: 25123, jobs_in_system: 24 
+[Wed Apr 20 21:48:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:00 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:48:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:00 2011] [info] arrival_rate_poll: num_arrivals: 25208, delta_num_arrivals: 61, num_departures: 25194, jobs_in_system: 14 
+[Wed Apr 20 21:48:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:01 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:48:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:01 2011] [info] arrival_rate_poll: num_arrivals: 25284, delta_num_arrivals: 76, num_departures: 25265, jobs_in_system: 19 
+[Wed Apr 20 21:48:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:02 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:48:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:02 2011] [info] arrival_rate_poll: num_arrivals: 25366, delta_num_arrivals: 82, num_departures: 25345, jobs_in_system: 21 
+[Wed Apr 20 21:48:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:03 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:48:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:03 2011] [info] arrival_rate_poll: num_arrivals: 25443, delta_num_arrivals: 77, num_departures: 25425, jobs_in_system: 18 
+[Wed Apr 20 21:48:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:04 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:48:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:04 2011] [info] arrival_rate_poll: num_arrivals: 25522, delta_num_arrivals: 79, num_departures: 25499, jobs_in_system: 23 
+[Wed Apr 20 21:48:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:05 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:48:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:05 2011] [info] arrival_rate_poll: num_arrivals: 25613, delta_num_arrivals: 91, num_departures: 25591, jobs_in_system: 22 
+[Wed Apr 20 21:48:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:06 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:48:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:06 2011] [info] arrival_rate_poll: num_arrivals: 25702, delta_num_arrivals: 89, num_departures: 25681, jobs_in_system: 21 
+[Wed Apr 20 21:48:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:07 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:48:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:07 2011] [info] arrival_rate_poll: num_arrivals: 25810, delta_num_arrivals: 108, num_departures: 25786, jobs_in_system: 24 
+[Wed Apr 20 21:48:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:08 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:48:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:08 2011] [info] arrival_rate_poll: num_arrivals: 25903, delta_num_arrivals: 93, num_departures: 25886, jobs_in_system: 17 
+[Wed Apr 20 21:48:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:09 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:48:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:09 2011] [info] arrival_rate_poll: num_arrivals: 25991, delta_num_arrivals: 88, num_departures: 25977, jobs_in_system: 14 
+[Wed Apr 20 21:48:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:10 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:48:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:10 2011] [info] arrival_rate_poll: num_arrivals: 26081, delta_num_arrivals: 90, num_departures: 26066, jobs_in_system: 15 
+[Wed Apr 20 21:48:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:11 2011] [info] busy_poll: 26 
+[Wed Apr 20 21:48:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:11 2011] [info] arrival_rate_poll: num_arrivals: 26180, delta_num_arrivals: 99, num_departures: 26153, jobs_in_system: 27 
+[Wed Apr 20 21:48:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:12 2011] [info] busy_poll: 27 
+[Wed Apr 20 21:48:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:12 2011] [info] arrival_rate_poll: num_arrivals: 26272, delta_num_arrivals: 92, num_departures: 26245, jobs_in_system: 27 
+[Wed Apr 20 21:48:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:13 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:48:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:13 2011] [info] arrival_rate_poll: num_arrivals: 26366, delta_num_arrivals: 94, num_departures: 26344, jobs_in_system: 22 
+[Wed Apr 20 21:48:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:14 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:48:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:14 2011] [info] arrival_rate_poll: num_arrivals: 26453, delta_num_arrivals: 87, num_departures: 26436, jobs_in_system: 17 
+[Wed Apr 20 21:48:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:15 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:48:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:15 2011] [info] arrival_rate_poll: num_arrivals: 26559, delta_num_arrivals: 106, num_departures: 26536, jobs_in_system: 23 
+[Wed Apr 20 21:48:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:16 2011] [info] busy_poll: 26 
+[Wed Apr 20 21:48:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:16 2011] [info] arrival_rate_poll: num_arrivals: 26682, delta_num_arrivals: 123, num_departures: 26657, jobs_in_system: 25 
+[Wed Apr 20 21:48:17 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:17 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:48:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:17 2011] [info] arrival_rate_poll: num_arrivals: 26790, delta_num_arrivals: 108, num_departures: 26768, jobs_in_system: 22 
+[Wed Apr 20 21:48:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:18 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:48:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:18 2011] [info] arrival_rate_poll: num_arrivals: 26879, delta_num_arrivals: 89, num_departures: 26863, jobs_in_system: 16 
+[Wed Apr 20 21:48:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:19 2011] [info] busy_poll: 13 
+[Wed Apr 20 21:48:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:19 2011] [info] arrival_rate_poll: num_arrivals: 26951, delta_num_arrivals: 72, num_departures: 26938, jobs_in_system: 13 
+[Wed Apr 20 21:48:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:20 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:48:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:20 2011] [info] arrival_rate_poll: num_arrivals: 27027, delta_num_arrivals: 76, num_departures: 27016, jobs_in_system: 11 
+[Wed Apr 20 21:48:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:21 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:48:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:21 2011] [info] arrival_rate_poll: num_arrivals: 27116, delta_num_arrivals: 89, num_departures: 27103, jobs_in_system: 13 
+[Wed Apr 20 21:48:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:22 2011] [info] busy_poll: 7 
+[Wed Apr 20 21:48:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:22 2011] [info] arrival_rate_poll: num_arrivals: 27196, delta_num_arrivals: 80, num_departures: 27189, jobs_in_system: 7 
+[Wed Apr 20 21:48:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:23 2011] [info] busy_poll: 29 
+[Wed Apr 20 21:48:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:23 2011] [info] arrival_rate_poll: num_arrivals: 27301, delta_num_arrivals: 105, num_departures: 27272, jobs_in_system: 29 
+[Wed Apr 20 21:48:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:24 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:48:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:24 2011] [info] arrival_rate_poll: num_arrivals: 27403, delta_num_arrivals: 102, num_departures: 27382, jobs_in_system: 21 
+[Wed Apr 20 21:48:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:25 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:48:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:25 2011] [info] arrival_rate_poll: num_arrivals: 27496, delta_num_arrivals: 93, num_departures: 27476, jobs_in_system: 20 
+[Wed Apr 20 21:48:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:26 2011] [info] busy_poll: 25 
+[Wed Apr 20 21:48:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:26 2011] [info] arrival_rate_poll: num_arrivals: 27610, delta_num_arrivals: 114, num_departures: 27585, jobs_in_system: 25 
+[Wed Apr 20 21:48:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:27 2011] [info] busy_poll: 10 
+[Wed Apr 20 21:48:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:27 2011] [info] arrival_rate_poll: num_arrivals: 27706, delta_num_arrivals: 96, num_departures: 27696, jobs_in_system: 10 
+[Wed Apr 20 21:48:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:28 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:48:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:28 2011] [info] arrival_rate_poll: num_arrivals: 27804, delta_num_arrivals: 98, num_departures: 27788, jobs_in_system: 16 
+[Wed Apr 20 21:48:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:29 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:48:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:29 2011] [info] arrival_rate_poll: num_arrivals: 27896, delta_num_arrivals: 92, num_departures: 27877, jobs_in_system: 19 
+[Wed Apr 20 21:48:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:30 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:48:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:30 2011] [info] arrival_rate_poll: num_arrivals: 27994, delta_num_arrivals: 98, num_departures: 27976, jobs_in_system: 18 
+[Wed Apr 20 21:48:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:31 2011] [info] busy_poll: 15 
+[Wed Apr 20 21:48:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:31 2011] [info] arrival_rate_poll: num_arrivals: 28095, delta_num_arrivals: 101, num_departures: 28080, jobs_in_system: 15 
+[Wed Apr 20 21:48:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:32 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:48:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:32 2011] [info] arrival_rate_poll: num_arrivals: 28198, delta_num_arrivals: 103, num_departures: 28172, jobs_in_system: 26 
+[Wed Apr 20 21:48:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:33 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:48:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:33 2011] [info] arrival_rate_poll: num_arrivals: 28290, delta_num_arrivals: 92, num_departures: 28271, jobs_in_system: 19 
+[Wed Apr 20 21:48:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:34 2011] [info] busy_poll: 37 
+[Wed Apr 20 21:48:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:34 2011] [info] arrival_rate_poll: num_arrivals: 28419, delta_num_arrivals: 129, num_departures: 28383, jobs_in_system: 36 
+[Wed Apr 20 21:48:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:35 2011] [info] busy_poll: 36 
+[Wed Apr 20 21:48:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:35 2011] [info] arrival_rate_poll: num_arrivals: 28541, delta_num_arrivals: 122, num_departures: 28504, jobs_in_system: 37 
+[Wed Apr 20 21:48:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:36 2011] [info] busy_poll: 26 
+[Wed Apr 20 21:48:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:36 2011] [info] arrival_rate_poll: num_arrivals: 28650, delta_num_arrivals: 109, num_departures: 28624, jobs_in_system: 26 
+[Wed Apr 20 21:48:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:37 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:48:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:37 2011] [info] arrival_rate_poll: num_arrivals: 28722, delta_num_arrivals: 72, num_departures: 28708, jobs_in_system: 14 
+[Wed Apr 20 21:48:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:38 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:48:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:38 2011] [info] arrival_rate_poll: num_arrivals: 28806, delta_num_arrivals: 84, num_departures: 28786, jobs_in_system: 20 
+[Wed Apr 20 21:48:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:39 2011] [info] busy_poll: 9 
+[Wed Apr 20 21:48:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:39 2011] [info] arrival_rate_poll: num_arrivals: 28895, delta_num_arrivals: 89, num_departures: 28885, jobs_in_system: 10 
+[Wed Apr 20 21:48:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:40 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:48:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:40 2011] [info] arrival_rate_poll: num_arrivals: 28982, delta_num_arrivals: 87, num_departures: 28967, jobs_in_system: 15 
+[Wed Apr 20 21:48:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:41 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:48:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:41 2011] [info] arrival_rate_poll: num_arrivals: 29074, delta_num_arrivals: 92, num_departures: 29054, jobs_in_system: 20 
+[Wed Apr 20 21:48:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:42 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:48:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:42 2011] [info] arrival_rate_poll: num_arrivals: 29178, delta_num_arrivals: 104, num_departures: 29161, jobs_in_system: 17 
+[Wed Apr 20 21:48:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:43 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:48:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:43 2011] [info] arrival_rate_poll: num_arrivals: 29284, delta_num_arrivals: 106, num_departures: 29263, jobs_in_system: 21 
+[Wed Apr 20 21:48:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:44 2011] [info] busy_poll: 12 
+[Wed Apr 20 21:48:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:44 2011] [info] arrival_rate_poll: num_arrivals: 29382, delta_num_arrivals: 98, num_departures: 29370, jobs_in_system: 12 
+[Wed Apr 20 21:48:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:45 2011] [info] busy_poll: 31 
+[Wed Apr 20 21:48:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:45 2011] [info] arrival_rate_poll: num_arrivals: 29506, delta_num_arrivals: 124, num_departures: 29475, jobs_in_system: 31 
+[Wed Apr 20 21:48:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:46 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:48:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:46 2011] [info] arrival_rate_poll: num_arrivals: 29606, delta_num_arrivals: 100, num_departures: 29586, jobs_in_system: 20 
+[Wed Apr 20 21:48:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:47 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:48:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:47 2011] [info] arrival_rate_poll: num_arrivals: 29707, delta_num_arrivals: 101, num_departures: 29688, jobs_in_system: 19 
+[Wed Apr 20 21:48:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:48 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:48:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:48 2011] [info] arrival_rate_poll: num_arrivals: 29802, delta_num_arrivals: 95, num_departures: 29781, jobs_in_system: 21 
+[Wed Apr 20 21:48:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:49 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:48:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:49 2011] [info] arrival_rate_poll: num_arrivals: 29909, delta_num_arrivals: 107, num_departures: 29887, jobs_in_system: 22 
+[Wed Apr 20 21:48:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:50 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:48:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:50 2011] [info] arrival_rate_poll: num_arrivals: 30013, delta_num_arrivals: 104, num_departures: 29994, jobs_in_system: 19 
+[Wed Apr 20 21:48:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:51 2011] [info] busy_poll: 26 
+[Wed Apr 20 21:48:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:51 2011] [info] arrival_rate_poll: num_arrivals: 30121, delta_num_arrivals: 108, num_departures: 30096, jobs_in_system: 25 
+[Wed Apr 20 21:48:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:52 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:48:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:52 2011] [info] arrival_rate_poll: num_arrivals: 30226, delta_num_arrivals: 105, num_departures: 30203, jobs_in_system: 23 
+[Wed Apr 20 21:48:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:53 2011] [info] busy_poll: 37 
+[Wed Apr 20 21:48:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:53 2011] [info] arrival_rate_poll: num_arrivals: 30361, delta_num_arrivals: 135, num_departures: 30324, jobs_in_system: 37 
+[Wed Apr 20 21:48:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:54 2011] [info] busy_poll: 34 
+[Wed Apr 20 21:48:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:54 2011] [info] arrival_rate_poll: num_arrivals: 30478, delta_num_arrivals: 117, num_departures: 30444, jobs_in_system: 34 
+[Wed Apr 20 21:48:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:55 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:48:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:55 2011] [info] arrival_rate_poll: num_arrivals: 30581, delta_num_arrivals: 103, num_departures: 30564, jobs_in_system: 17 
+[Wed Apr 20 21:48:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:56 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:48:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:56 2011] [info] arrival_rate_poll: num_arrivals: 30663, delta_num_arrivals: 82, num_departures: 30639, jobs_in_system: 24 
+[Wed Apr 20 21:48:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:57 2011] [info] busy_poll: 28 
+[Wed Apr 20 21:48:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:57 2011] [info] arrival_rate_poll: num_arrivals: 30754, delta_num_arrivals: 91, num_departures: 30727, jobs_in_system: 27 
+[Wed Apr 20 21:48:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:58 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:48:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:58 2011] [info] arrival_rate_poll: num_arrivals: 30848, delta_num_arrivals: 94, num_departures: 30828, jobs_in_system: 20 
+[Wed Apr 20 21:48:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:48:59 2011] [info] busy_poll: 25 
+[Wed Apr 20 21:48:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:48:59 2011] [info] arrival_rate_poll: num_arrivals: 30945, delta_num_arrivals: 97, num_departures: 30920, jobs_in_system: 25 
+[Wed Apr 20 21:49:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:00 2011] [info] busy_poll: 28 
+[Wed Apr 20 21:49:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:00 2011] [info] arrival_rate_poll: num_arrivals: 31056, delta_num_arrivals: 111, num_departures: 31028, jobs_in_system: 28 
+[Wed Apr 20 21:49:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:01 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:49:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:01 2011] [info] arrival_rate_poll: num_arrivals: 31148, delta_num_arrivals: 92, num_departures: 31131, jobs_in_system: 17 
+[Wed Apr 20 21:49:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:02 2011] [info] busy_poll: 34 
+[Wed Apr 20 21:49:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:02 2011] [info] arrival_rate_poll: num_arrivals: 31258, delta_num_arrivals: 110, num_departures: 31224, jobs_in_system: 34 
+[Wed Apr 20 21:49:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:03 2011] [info] busy_poll: 27 
+[Wed Apr 20 21:49:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:03 2011] [info] arrival_rate_poll: num_arrivals: 31365, delta_num_arrivals: 107, num_departures: 31338, jobs_in_system: 27 
+[Wed Apr 20 21:49:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:04 2011] [info] busy_poll: 32 
+[Wed Apr 20 21:49:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:04 2011] [info] arrival_rate_poll: num_arrivals: 31479, delta_num_arrivals: 114, num_departures: 31447, jobs_in_system: 32 
+[Wed Apr 20 21:49:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:05 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:49:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:05 2011] [info] arrival_rate_poll: num_arrivals: 31594, delta_num_arrivals: 115, num_departures: 31572, jobs_in_system: 22 
+[Wed Apr 20 21:49:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:06 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:49:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:06 2011] [info] arrival_rate_poll: num_arrivals: 31696, delta_num_arrivals: 102, num_departures: 31682, jobs_in_system: 14 
+[Wed Apr 20 21:49:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:07 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:49:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:07 2011] [info] arrival_rate_poll: num_arrivals: 31799, delta_num_arrivals: 103, num_departures: 31775, jobs_in_system: 24 
+[Wed Apr 20 21:49:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:08 2011] [info] busy_poll: 32 
+[Wed Apr 20 21:49:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:08 2011] [info] arrival_rate_poll: num_arrivals: 31911, delta_num_arrivals: 112, num_departures: 31880, jobs_in_system: 31 
+[Wed Apr 20 21:49:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:09 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:49:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:09 2011] [info] arrival_rate_poll: num_arrivals: 32020, delta_num_arrivals: 109, num_departures: 32000, jobs_in_system: 20 
+[Wed Apr 20 21:49:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:10 2011] [info] busy_poll: 11 
+[Wed Apr 20 21:49:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:10 2011] [info] arrival_rate_poll: num_arrivals: 32126, delta_num_arrivals: 106, num_departures: 32115, jobs_in_system: 11 
+[Wed Apr 20 21:49:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:11 2011] [info] busy_poll: 29 
+[Wed Apr 20 21:49:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:11 2011] [info] arrival_rate_poll: num_arrivals: 32243, delta_num_arrivals: 117, num_departures: 32214, jobs_in_system: 29 
+[Wed Apr 20 21:49:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:12 2011] [info] busy_poll: 48 
+[Wed Apr 20 21:49:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:12 2011] [info] arrival_rate_poll: num_arrivals: 32386, delta_num_arrivals: 143, num_departures: 32338, jobs_in_system: 48 
+[Wed Apr 20 21:49:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:13 2011] [info] busy_poll: 46 
+[Wed Apr 20 21:49:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:13 2011] [info] arrival_rate_poll: num_arrivals: 32509, delta_num_arrivals: 123, num_departures: 32464, jobs_in_system: 45 
+[Wed Apr 20 21:49:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:14 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:49:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:14 2011] [info] arrival_rate_poll: num_arrivals: 32602, delta_num_arrivals: 93, num_departures: 32583, jobs_in_system: 19 
+[Wed Apr 20 21:49:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:15 2011] [info] busy_poll: 16 
+[Wed Apr 20 21:49:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:15 2011] [info] arrival_rate_poll: num_arrivals: 32696, delta_num_arrivals: 94, num_departures: 32680, jobs_in_system: 16 
+[Wed Apr 20 21:49:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:16 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:49:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:16 2011] [info] arrival_rate_poll: num_arrivals: 32794, delta_num_arrivals: 98, num_departures: 32777, jobs_in_system: 17 
+[Wed Apr 20 21:49:17 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:17 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:49:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:17 2011] [info] arrival_rate_poll: num_arrivals: 32893, delta_num_arrivals: 99, num_departures: 32873, jobs_in_system: 20 
+[Wed Apr 20 21:49:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:18 2011] [info] busy_poll: 32 
+[Wed Apr 20 21:49:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:18 2011] [info] arrival_rate_poll: num_arrivals: 33007, delta_num_arrivals: 114, num_departures: 32975, jobs_in_system: 32 
+[Wed Apr 20 21:49:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:19 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:49:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:19 2011] [info] arrival_rate_poll: num_arrivals: 33110, delta_num_arrivals: 103, num_departures: 33088, jobs_in_system: 22 
+[Wed Apr 20 21:49:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:20 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:49:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:20 2011] [info] arrival_rate_poll: num_arrivals: 33207, delta_num_arrivals: 97, num_departures: 33193, jobs_in_system: 14 
+[Wed Apr 20 21:49:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:21 2011] [info] busy_poll: 49 
+[Wed Apr 20 21:49:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:21 2011] [info] arrival_rate_poll: num_arrivals: 33340, delta_num_arrivals: 133, num_departures: 33291, jobs_in_system: 49 
+[Wed Apr 20 21:49:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:22 2011] [info] busy_poll: 20 
+[Wed Apr 20 21:49:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:22 2011] [info] arrival_rate_poll: num_arrivals: 33450, delta_num_arrivals: 110, num_departures: 33430, jobs_in_system: 20 
+[Wed Apr 20 21:49:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:23 2011] [info] busy_poll: 35 
+[Wed Apr 20 21:49:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:23 2011] [info] arrival_rate_poll: num_arrivals: 33566, delta_num_arrivals: 116, num_departures: 33531, jobs_in_system: 35 
+[Wed Apr 20 21:49:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:24 2011] [info] busy_poll: 35 
+[Wed Apr 20 21:49:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:24 2011] [info] arrival_rate_poll: num_arrivals: 33689, delta_num_arrivals: 123, num_departures: 33654, jobs_in_system: 35 
+[Wed Apr 20 21:49:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:25 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:49:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:25 2011] [info] arrival_rate_poll: num_arrivals: 33796, delta_num_arrivals: 107, num_departures: 33775, jobs_in_system: 21 
+[Wed Apr 20 21:49:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:26 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:49:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:26 2011] [info] arrival_rate_poll: num_arrivals: 33908, delta_num_arrivals: 112, num_departures: 33884, jobs_in_system: 24 
+[Wed Apr 20 21:49:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:27 2011] [info] busy_poll: 26 
+[Wed Apr 20 21:49:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:27 2011] [info] arrival_rate_poll: num_arrivals: 34022, delta_num_arrivals: 114, num_departures: 33996, jobs_in_system: 26 
+[Wed Apr 20 21:49:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:28 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:49:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:28 2011] [info] arrival_rate_poll: num_arrivals: 34135, delta_num_arrivals: 113, num_departures: 34118, jobs_in_system: 17 
+[Wed Apr 20 21:49:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:29 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:49:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:29 2011] [info] arrival_rate_poll: num_arrivals: 34245, delta_num_arrivals: 110, num_departures: 34225, jobs_in_system: 20 
+[Wed Apr 20 21:49:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:30 2011] [info] busy_poll: 37 
+[Wed Apr 20 21:49:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:30 2011] [info] arrival_rate_poll: num_arrivals: 34383, delta_num_arrivals: 138, num_departures: 34346, jobs_in_system: 37 
+[Wed Apr 20 21:49:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:31 2011] [info] busy_poll: 47 
+[Wed Apr 20 21:49:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:31 2011] [info] arrival_rate_poll: num_arrivals: 34517, delta_num_arrivals: 134, num_departures: 34470, jobs_in_system: 47 
+[Wed Apr 20 21:49:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:32 2011] [info] busy_poll: 42 
+[Wed Apr 20 21:49:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:32 2011] [info] arrival_rate_poll: num_arrivals: 34641, delta_num_arrivals: 124, num_departures: 34601, jobs_in_system: 40 
+[Wed Apr 20 21:49:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:33 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:49:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:33 2011] [info] arrival_rate_poll: num_arrivals: 34736, delta_num_arrivals: 95, num_departures: 34715, jobs_in_system: 21 
+[Wed Apr 20 21:49:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:34 2011] [info] busy_poll: 14 
+[Wed Apr 20 21:49:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:34 2011] [info] arrival_rate_poll: num_arrivals: 34830, delta_num_arrivals: 94, num_departures: 34816, jobs_in_system: 14 
+[Wed Apr 20 21:49:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:35 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:49:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:35 2011] [info] arrival_rate_poll: num_arrivals: 34942, delta_num_arrivals: 112, num_departures: 34920, jobs_in_system: 22 
+[Wed Apr 20 21:49:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:36 2011] [info] busy_poll: 31 
+[Wed Apr 20 21:49:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:36 2011] [info] arrival_rate_poll: num_arrivals: 35045, delta_num_arrivals: 103, num_departures: 35015, jobs_in_system: 30 
+[Wed Apr 20 21:49:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:37 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:49:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:37 2011] [info] arrival_rate_poll: num_arrivals: 35166, delta_num_arrivals: 121, num_departures: 35144, jobs_in_system: 22 
+[Wed Apr 20 21:49:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:38 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:49:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:38 2011] [info] arrival_rate_poll: num_arrivals: 35269, delta_num_arrivals: 103, num_departures: 35248, jobs_in_system: 21 
+[Wed Apr 20 21:49:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:39 2011] [info] busy_poll: 40 
+[Wed Apr 20 21:49:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:39 2011] [info] arrival_rate_poll: num_arrivals: 35392, delta_num_arrivals: 123, num_departures: 35352, jobs_in_system: 40 
+[Wed Apr 20 21:49:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:40 2011] [info] busy_poll: 46 
+[Wed Apr 20 21:49:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:40 2011] [info] arrival_rate_poll: num_arrivals: 35521, delta_num_arrivals: 129, num_departures: 35474, jobs_in_system: 47 
+[Wed Apr 20 21:49:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:41 2011] [info] busy_poll: 50 
+[Wed Apr 20 21:49:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:41 2011] [info] arrival_rate_poll: num_arrivals: 35639, delta_num_arrivals: 118, num_departures: 35589, jobs_in_system: 50 
+[Wed Apr 20 21:49:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:42 2011] [info] busy_poll: 43 
+[Wed Apr 20 21:49:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:42 2011] [info] arrival_rate_poll: num_arrivals: 35760, delta_num_arrivals: 121, num_departures: 35717, jobs_in_system: 43 
+[Wed Apr 20 21:49:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:43 2011] [info] busy_poll: 45 
+[Wed Apr 20 21:49:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:43 2011] [info] arrival_rate_poll: num_arrivals: 35886, delta_num_arrivals: 126, num_departures: 35840, jobs_in_system: 46 
+[Wed Apr 20 21:49:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:44 2011] [info] busy_poll: 31 
+[Wed Apr 20 21:49:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:44 2011] [info] arrival_rate_poll: num_arrivals: 36009, delta_num_arrivals: 123, num_departures: 35979, jobs_in_system: 30 
+[Wed Apr 20 21:49:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:45 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:49:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:45 2011] [info] arrival_rate_poll: num_arrivals: 36117, delta_num_arrivals: 108, num_departures: 36093, jobs_in_system: 24 
+[Wed Apr 20 21:49:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:46 2011] [info] busy_poll: 33 
+[Wed Apr 20 21:49:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:46 2011] [info] arrival_rate_poll: num_arrivals: 36242, delta_num_arrivals: 125, num_departures: 36209, jobs_in_system: 33 
+[Wed Apr 20 21:49:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:47 2011] [info] busy_poll: 28 
+[Wed Apr 20 21:49:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:47 2011] [info] arrival_rate_poll: num_arrivals: 36361, delta_num_arrivals: 119, num_departures: 36333, jobs_in_system: 28 
+[Wed Apr 20 21:49:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:48 2011] [info] busy_poll: 39 
+[Wed Apr 20 21:49:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:48 2011] [info] arrival_rate_poll: num_arrivals: 36481, delta_num_arrivals: 120, num_departures: 36442, jobs_in_system: 39 
+[Wed Apr 20 21:49:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:49 2011] [info] busy_poll: 48 
+[Wed Apr 20 21:49:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:49 2011] [info] arrival_rate_poll: num_arrivals: 36611, delta_num_arrivals: 130, num_departures: 36563, jobs_in_system: 48 
+[Wed Apr 20 21:49:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:50 2011] [info] busy_poll: 49 
+[Wed Apr 20 21:49:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:50 2011] [info] arrival_rate_poll: num_arrivals: 36732, delta_num_arrivals: 121, num_departures: 36683, jobs_in_system: 49 
+[Wed Apr 20 21:49:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:51 2011] [info] busy_poll: 50 
+[Wed Apr 20 21:49:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:51 2011] [info] arrival_rate_poll: num_arrivals: 36867, delta_num_arrivals: 135, num_departures: 36817, jobs_in_system: 50 
+[Wed Apr 20 21:49:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:52 2011] [info] busy_poll: 31 
+[Wed Apr 20 21:49:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:52 2011] [info] arrival_rate_poll: num_arrivals: 36983, delta_num_arrivals: 116, num_departures: 36952, jobs_in_system: 31 
+[Wed Apr 20 21:49:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:53 2011] [info] busy_poll: 29 
+[Wed Apr 20 21:49:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:53 2011] [info] arrival_rate_poll: num_arrivals: 37092, delta_num_arrivals: 109, num_departures: 37063, jobs_in_system: 29 
+[Wed Apr 20 21:49:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:54 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:49:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:54 2011] [info] arrival_rate_poll: num_arrivals: 37193, delta_num_arrivals: 101, num_departures: 37172, jobs_in_system: 21 
+[Wed Apr 20 21:49:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:55 2011] [info] busy_poll: 36 
+[Wed Apr 20 21:49:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:55 2011] [info] arrival_rate_poll: num_arrivals: 37318, delta_num_arrivals: 125, num_departures: 37283, jobs_in_system: 35 
+[Wed Apr 20 21:49:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:56 2011] [info] busy_poll: 19 
+[Wed Apr 20 21:49:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:56 2011] [info] arrival_rate_poll: num_arrivals: 37429, delta_num_arrivals: 111, num_departures: 37410, jobs_in_system: 19 
+[Wed Apr 20 21:49:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:57 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:49:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:57 2011] [info] arrival_rate_poll: num_arrivals: 37538, delta_num_arrivals: 109, num_departures: 37514, jobs_in_system: 24 
+[Wed Apr 20 21:49:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:58 2011] [info] busy_poll: 48 
+[Wed Apr 20 21:49:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:58 2011] [info] arrival_rate_poll: num_arrivals: 37678, delta_num_arrivals: 140, num_departures: 37630, jobs_in_system: 48 
+[Wed Apr 20 21:49:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:49:59 2011] [info] busy_poll: 33 
+[Wed Apr 20 21:49:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:49:59 2011] [info] arrival_rate_poll: num_arrivals: 37795, delta_num_arrivals: 117, num_departures: 37761, jobs_in_system: 34 
+[Wed Apr 20 21:50:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:00 2011] [info] busy_poll: 28 
+[Wed Apr 20 21:50:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:00 2011] [info] arrival_rate_poll: num_arrivals: 37921, delta_num_arrivals: 126, num_departures: 37892, jobs_in_system: 29 
+[Wed Apr 20 21:50:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:01 2011] [info] busy_poll: 41 
+[Wed Apr 20 21:50:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:01 2011] [info] arrival_rate_poll: num_arrivals: 38051, delta_num_arrivals: 130, num_departures: 38010, jobs_in_system: 41 
+[Wed Apr 20 21:50:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:02 2011] [info] busy_poll: 46 
+[Wed Apr 20 21:50:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:02 2011] [info] arrival_rate_poll: num_arrivals: 38182, delta_num_arrivals: 131, num_departures: 38135, jobs_in_system: 47 
+[Wed Apr 20 21:50:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:03 2011] [info] busy_poll: 41 
+[Wed Apr 20 21:50:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:03 2011] [info] arrival_rate_poll: num_arrivals: 38298, delta_num_arrivals: 116, num_departures: 38257, jobs_in_system: 41 
+[Wed Apr 20 21:50:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:04 2011] [info] busy_poll: 28 
+[Wed Apr 20 21:50:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:04 2011] [info] arrival_rate_poll: num_arrivals: 38416, delta_num_arrivals: 118, num_departures: 38388, jobs_in_system: 28 
+[Wed Apr 20 21:50:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:05 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:50:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:05 2011] [info] arrival_rate_poll: num_arrivals: 38543, delta_num_arrivals: 127, num_departures: 38519, jobs_in_system: 24 
+[Wed Apr 20 21:50:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:06 2011] [info] busy_poll: 36 
+[Wed Apr 20 21:50:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:06 2011] [info] arrival_rate_poll: num_arrivals: 38673, delta_num_arrivals: 130, num_departures: 38637, jobs_in_system: 36 
+[Wed Apr 20 21:50:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:07 2011] [info] busy_poll: 27 
+[Wed Apr 20 21:50:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:07 2011] [info] arrival_rate_poll: num_arrivals: 38790, delta_num_arrivals: 117, num_departures: 38763, jobs_in_system: 27 
+[Wed Apr 20 21:50:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:08 2011] [info] busy_poll: 50 
+[Wed Apr 20 21:50:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:08 2011] [info] arrival_rate_poll: num_arrivals: 38922, delta_num_arrivals: 132, num_departures: 38872, jobs_in_system: 50 
+[Wed Apr 20 21:50:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:09 2011] [info] busy_poll: 45 
+[Wed Apr 20 21:50:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:09 2011] [info] arrival_rate_poll: num_arrivals: 39057, delta_num_arrivals: 135, num_departures: 39012, jobs_in_system: 45 
+[Wed Apr 20 21:50:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:10 2011] [info] busy_poll: 38 
+[Wed Apr 20 21:50:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:10 2011] [info] arrival_rate_poll: num_arrivals: 39192, delta_num_arrivals: 135, num_departures: 39155, jobs_in_system: 37 
+[Wed Apr 20 21:50:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:11 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:50:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:11 2011] [info] arrival_rate_poll: num_arrivals: 39312, delta_num_arrivals: 120, num_departures: 39289, jobs_in_system: 23 
+[Wed Apr 20 21:50:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:12 2011] [info] busy_poll: 27 
+[Wed Apr 20 21:50:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:12 2011] [info] arrival_rate_poll: num_arrivals: 39423, delta_num_arrivals: 111, num_departures: 39395, jobs_in_system: 28 
+[Wed Apr 20 21:50:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:13 2011] [info] busy_poll: 37 
+[Wed Apr 20 21:50:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:13 2011] [info] arrival_rate_poll: num_arrivals: 39539, delta_num_arrivals: 116, num_departures: 39502, jobs_in_system: 37 
+[Wed Apr 20 21:50:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:14 2011] [info] busy_poll: 34 
+[Wed Apr 20 21:50:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:14 2011] [info] arrival_rate_poll: num_arrivals: 39667, delta_num_arrivals: 128, num_departures: 39633, jobs_in_system: 34 
+[Wed Apr 20 21:50:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:15 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:50:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:15 2011] [info] arrival_rate_poll: num_arrivals: 39778, delta_num_arrivals: 111, num_departures: 39761, jobs_in_system: 17 
+[Wed Apr 20 21:50:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:16 2011] [info] busy_poll: 45 
+[Wed Apr 20 21:50:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:16 2011] [info] arrival_rate_poll: num_arrivals: 39915, delta_num_arrivals: 137, num_departures: 39871, jobs_in_system: 44 
+[Wed Apr 20 21:50:17 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:17 2011] [info] busy_poll: 50 
+[Wed Apr 20 21:50:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:17 2011] [info] arrival_rate_poll: num_arrivals: 40050, delta_num_arrivals: 135, num_departures: 40000, jobs_in_system: 50 
+[Wed Apr 20 21:50:18 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:18 2011] [info] busy_poll: 32 
+[Wed Apr 20 21:50:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:18 2011] [info] arrival_rate_poll: num_arrivals: 40167, delta_num_arrivals: 117, num_departures: 40135, jobs_in_system: 32 
+[Wed Apr 20 21:50:19 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:19 2011] [info] busy_poll: 28 
+[Wed Apr 20 21:50:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:19 2011] [info] arrival_rate_poll: num_arrivals: 40294, delta_num_arrivals: 127, num_departures: 40266, jobs_in_system: 28 
+[Wed Apr 20 21:50:20 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:20 2011] [info] busy_poll: 32 
+[Wed Apr 20 21:50:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:20 2011] [info] arrival_rate_poll: num_arrivals: 40419, delta_num_arrivals: 125, num_departures: 40387, jobs_in_system: 32 
+[Wed Apr 20 21:50:21 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:21 2011] [info] busy_poll: 34 
+[Wed Apr 20 21:50:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:21 2011] [info] arrival_rate_poll: num_arrivals: 40559, delta_num_arrivals: 140, num_departures: 40525, jobs_in_system: 34 
+[Wed Apr 20 21:50:22 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:22 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:50:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:22 2011] [info] arrival_rate_poll: num_arrivals: 40679, delta_num_arrivals: 120, num_departures: 40656, jobs_in_system: 23 
+[Wed Apr 20 21:50:23 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:23 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:50:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:23 2011] [info] arrival_rate_poll: num_arrivals: 40792, delta_num_arrivals: 113, num_departures: 40769, jobs_in_system: 23 
+[Wed Apr 20 21:50:24 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:24 2011] [info] busy_poll: 34 
+[Wed Apr 20 21:50:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:24 2011] [info] arrival_rate_poll: num_arrivals: 40921, delta_num_arrivals: 129, num_departures: 40888, jobs_in_system: 33 
+[Wed Apr 20 21:50:25 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:25 2011] [info] busy_poll: 33 
+[Wed Apr 20 21:50:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:25 2011] [info] arrival_rate_poll: num_arrivals: 41044, delta_num_arrivals: 123, num_departures: 41011, jobs_in_system: 33 
+[Wed Apr 20 21:50:26 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:26 2011] [info] busy_poll: 25 
+[Wed Apr 20 21:50:26 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:26 2011] [info] arrival_rate_poll: num_arrivals: 41164, delta_num_arrivals: 120, num_departures: 41139, jobs_in_system: 25 
+[Wed Apr 20 21:50:27 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:27 2011] [info] busy_poll: 43 
+[Wed Apr 20 21:50:27 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:27 2011] [info] arrival_rate_poll: num_arrivals: 41304, delta_num_arrivals: 140, num_departures: 41261, jobs_in_system: 43 
+[Wed Apr 20 21:50:28 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:28 2011] [info] busy_poll: 43 
+[Wed Apr 20 21:50:28 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:28 2011] [info] arrival_rate_poll: num_arrivals: 41437, delta_num_arrivals: 133, num_departures: 41394, jobs_in_system: 43 
+[Wed Apr 20 21:50:29 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:29 2011] [info] busy_poll: 46 
+[Wed Apr 20 21:50:29 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:29 2011] [info] arrival_rate_poll: num_arrivals: 41571, delta_num_arrivals: 134, num_departures: 41525, jobs_in_system: 46 
+[Wed Apr 20 21:50:30 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:30 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:50:30 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:30 2011] [info] arrival_rate_poll: num_arrivals: 41688, delta_num_arrivals: 117, num_departures: 41666, jobs_in_system: 22 
+[Wed Apr 20 21:50:31 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:31 2011] [info] busy_poll: 28 
+[Wed Apr 20 21:50:31 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:31 2011] [info] arrival_rate_poll: num_arrivals: 41803, delta_num_arrivals: 115, num_departures: 41775, jobs_in_system: 28 
+[Wed Apr 20 21:50:32 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:32 2011] [info] busy_poll: 18 
+[Wed Apr 20 21:50:32 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:32 2011] [info] arrival_rate_poll: num_arrivals: 41905, delta_num_arrivals: 102, num_departures: 41887, jobs_in_system: 18 
+[Wed Apr 20 21:50:33 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:33 2011] [info] busy_poll: 36 
+[Wed Apr 20 21:50:33 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:33 2011] [info] arrival_rate_poll: num_arrivals: 42045, delta_num_arrivals: 140, num_departures: 42010, jobs_in_system: 35 
+[Wed Apr 20 21:50:34 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:34 2011] [info] busy_poll: 24 
+[Wed Apr 20 21:50:34 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:34 2011] [info] arrival_rate_poll: num_arrivals: 42159, delta_num_arrivals: 114, num_departures: 42136, jobs_in_system: 23 
+[Wed Apr 20 21:50:35 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:35 2011] [info] busy_poll: 49 
+[Wed Apr 20 21:50:35 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:35 2011] [info] arrival_rate_poll: num_arrivals: 42290, delta_num_arrivals: 131, num_departures: 42241, jobs_in_system: 49 
+[Wed Apr 20 21:50:36 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:36 2011] [info] busy_poll: 40 
+[Wed Apr 20 21:50:36 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:36 2011] [info] arrival_rate_poll: num_arrivals: 42418, delta_num_arrivals: 128, num_departures: 42378, jobs_in_system: 40 
+[Wed Apr 20 21:50:37 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:37 2011] [info] busy_poll: 34 
+[Wed Apr 20 21:50:37 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:37 2011] [info] arrival_rate_poll: num_arrivals: 42542, delta_num_arrivals: 124, num_departures: 42508, jobs_in_system: 34 
+[Wed Apr 20 21:50:38 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:38 2011] [info] busy_poll: 38 
+[Wed Apr 20 21:50:38 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:38 2011] [info] arrival_rate_poll: num_arrivals: 42672, delta_num_arrivals: 130, num_departures: 42635, jobs_in_system: 37 
+[Wed Apr 20 21:50:39 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:39 2011] [info] busy_poll: 30 
+[Wed Apr 20 21:50:39 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:39 2011] [info] arrival_rate_poll: num_arrivals: 42787, delta_num_arrivals: 115, num_departures: 42757, jobs_in_system: 30 
+[Wed Apr 20 21:50:40 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:40 2011] [info] busy_poll: 42 
+[Wed Apr 20 21:50:40 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:40 2011] [info] arrival_rate_poll: num_arrivals: 42930, delta_num_arrivals: 143, num_departures: 42889, jobs_in_system: 41 
+[Wed Apr 20 21:50:41 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:41 2011] [info] busy_poll: 42 
+[Wed Apr 20 21:50:41 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:41 2011] [info] arrival_rate_poll: num_arrivals: 43055, delta_num_arrivals: 125, num_departures: 43013, jobs_in_system: 42 
+[Wed Apr 20 21:50:42 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:42 2011] [info] busy_poll: 34 
+[Wed Apr 20 21:50:42 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:42 2011] [info] arrival_rate_poll: num_arrivals: 43169, delta_num_arrivals: 114, num_departures: 43135, jobs_in_system: 34 
+[Wed Apr 20 21:50:43 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:43 2011] [info] busy_poll: 44 
+[Wed Apr 20 21:50:43 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:43 2011] [info] arrival_rate_poll: num_arrivals: 43293, delta_num_arrivals: 124, num_departures: 43249, jobs_in_system: 44 
+[Wed Apr 20 21:50:44 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:44 2011] [info] busy_poll: 40 
+[Wed Apr 20 21:50:44 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:44 2011] [info] arrival_rate_poll: num_arrivals: 43418, delta_num_arrivals: 125, num_departures: 43378, jobs_in_system: 40 
+[Wed Apr 20 21:50:45 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:45 2011] [info] busy_poll: 31 
+[Wed Apr 20 21:50:45 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:45 2011] [info] arrival_rate_poll: num_arrivals: 43538, delta_num_arrivals: 120, num_departures: 43507, jobs_in_system: 31 
+[Wed Apr 20 21:50:46 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:46 2011] [info] busy_poll: 42 
+[Wed Apr 20 21:50:46 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:46 2011] [info] arrival_rate_poll: num_arrivals: 43680, delta_num_arrivals: 142, num_departures: 43638, jobs_in_system: 42 
+[Wed Apr 20 21:50:47 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:47 2011] [info] busy_poll: 49 
+[Wed Apr 20 21:50:47 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:47 2011] [info] arrival_rate_poll: num_arrivals: 43815, delta_num_arrivals: 135, num_departures: 43766, jobs_in_system: 49 
+[Wed Apr 20 21:50:48 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:48 2011] [info] busy_poll: 49 
+[Wed Apr 20 21:50:48 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:48 2011] [info] arrival_rate_poll: num_arrivals: 43935, delta_num_arrivals: 120, num_departures: 43887, jobs_in_system: 48 
+[Wed Apr 20 21:50:49 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:49 2011] [info] busy_poll: 43 
+[Wed Apr 20 21:50:49 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:49 2011] [info] arrival_rate_poll: num_arrivals: 44066, delta_num_arrivals: 131, num_departures: 44023, jobs_in_system: 43 
+[Wed Apr 20 21:50:50 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:50 2011] [info] busy_poll: 35 
+[Wed Apr 20 21:50:50 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:50 2011] [info] arrival_rate_poll: num_arrivals: 44186, delta_num_arrivals: 120, num_departures: 44151, jobs_in_system: 35 
+[Wed Apr 20 21:50:51 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:51 2011] [info] busy_poll: 26 
+[Wed Apr 20 21:50:51 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:51 2011] [info] arrival_rate_poll: num_arrivals: 44293, delta_num_arrivals: 107, num_departures: 44267, jobs_in_system: 26 
+[Wed Apr 20 21:50:52 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:52 2011] [info] busy_poll: 39 
+[Wed Apr 20 21:50:52 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:52 2011] [info] arrival_rate_poll: num_arrivals: 44418, delta_num_arrivals: 125, num_departures: 44379, jobs_in_system: 39 
+[Wed Apr 20 21:50:53 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:53 2011] [info] busy_poll: 26 
+[Wed Apr 20 21:50:53 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:53 2011] [info] arrival_rate_poll: num_arrivals: 44533, delta_num_arrivals: 115, num_departures: 44507, jobs_in_system: 26 
+[Wed Apr 20 21:50:54 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:54 2011] [info] busy_poll: 36 
+[Wed Apr 20 21:50:54 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:54 2011] [info] arrival_rate_poll: num_arrivals: 44656, delta_num_arrivals: 123, num_departures: 44620, jobs_in_system: 36 
+[Wed Apr 20 21:50:55 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:55 2011] [info] busy_poll: 48 
+[Wed Apr 20 21:50:55 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:55 2011] [info] arrival_rate_poll: num_arrivals: 44793, delta_num_arrivals: 137, num_departures: 44745, jobs_in_system: 48 
+[Wed Apr 20 21:50:56 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:56 2011] [info] busy_poll: 41 
+[Wed Apr 20 21:50:56 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:56 2011] [info] arrival_rate_poll: num_arrivals: 44910, delta_num_arrivals: 117, num_departures: 44869, jobs_in_system: 41 
+[Wed Apr 20 21:50:57 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:57 2011] [info] busy_poll: 40 
+[Wed Apr 20 21:50:57 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:57 2011] [info] arrival_rate_poll: num_arrivals: 45050, delta_num_arrivals: 140, num_departures: 45010, jobs_in_system: 40 
+[Wed Apr 20 21:50:58 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:58 2011] [info] busy_poll: 30 
+[Wed Apr 20 21:50:58 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:58 2011] [info] arrival_rate_poll: num_arrivals: 45168, delta_num_arrivals: 118, num_departures: 45138, jobs_in_system: 30 
+[Wed Apr 20 21:50:59 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:50:59 2011] [info] busy_poll: 48 
+[Wed Apr 20 21:50:59 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:50:59 2011] [info] arrival_rate_poll: num_arrivals: 45300, delta_num_arrivals: 132, num_departures: 45252, jobs_in_system: 48 
+[Wed Apr 20 21:51:00 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:00 2011] [info] busy_poll: 48 
+[Wed Apr 20 21:51:00 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:00 2011] [info] arrival_rate_poll: num_arrivals: 45422, delta_num_arrivals: 122, num_departures: 45374, jobs_in_system: 48 
+[Wed Apr 20 21:51:01 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:01 2011] [info] busy_poll: 43 
+[Wed Apr 20 21:51:01 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:01 2011] [info] arrival_rate_poll: num_arrivals: 45544, delta_num_arrivals: 122, num_departures: 45501, jobs_in_system: 43 
+[Wed Apr 20 21:51:02 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:02 2011] [info] busy_poll: 33 
+[Wed Apr 20 21:51:02 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:02 2011] [info] arrival_rate_poll: num_arrivals: 45671, delta_num_arrivals: 127, num_departures: 45638, jobs_in_system: 33 
+[Wed Apr 20 21:51:03 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:03 2011] [info] busy_poll: 31 
+[Wed Apr 20 21:51:03 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:03 2011] [info] arrival_rate_poll: num_arrivals: 45794, delta_num_arrivals: 123, num_departures: 45763, jobs_in_system: 31 
+[Wed Apr 20 21:51:04 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:04 2011] [info] busy_poll: 38 
+[Wed Apr 20 21:51:04 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:04 2011] [info] arrival_rate_poll: num_arrivals: 45921, delta_num_arrivals: 127, num_departures: 45883, jobs_in_system: 38 
+[Wed Apr 20 21:51:05 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:05 2011] [info] busy_poll: 38 
+[Wed Apr 20 21:51:05 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:05 2011] [info] arrival_rate_poll: num_arrivals: 46051, delta_num_arrivals: 130, num_departures: 46013, jobs_in_system: 38 
+[Wed Apr 20 21:51:06 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:06 2011] [info] busy_poll: 43 
+[Wed Apr 20 21:51:06 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:06 2011] [info] arrival_rate_poll: num_arrivals: 46184, delta_num_arrivals: 133, num_departures: 46141, jobs_in_system: 43 
+[Wed Apr 20 21:51:07 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:07 2011] [info] busy_poll: 47 
+[Wed Apr 20 21:51:07 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:07 2011] [info] arrival_rate_poll: num_arrivals: 46329, delta_num_arrivals: 145, num_departures: 46282, jobs_in_system: 47 
+[Wed Apr 20 21:51:08 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:08 2011] [info] busy_poll: 21 
+[Wed Apr 20 21:51:08 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:08 2011] [info] arrival_rate_poll: num_arrivals: 46446, delta_num_arrivals: 117, num_departures: 46425, jobs_in_system: 21 
+[Wed Apr 20 21:51:09 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:09 2011] [info] busy_poll: 33 
+[Wed Apr 20 21:51:09 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:09 2011] [info] arrival_rate_poll: num_arrivals: 46555, delta_num_arrivals: 109, num_departures: 46522, jobs_in_system: 33 
+[Wed Apr 20 21:51:10 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:10 2011] [info] busy_poll: 23 
+[Wed Apr 20 21:51:10 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:10 2011] [info] arrival_rate_poll: num_arrivals: 46670, delta_num_arrivals: 115, num_departures: 46647, jobs_in_system: 23 
+[Wed Apr 20 21:51:11 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:11 2011] [info] busy_poll: 33 
+[Wed Apr 20 21:51:11 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:11 2011] [info] arrival_rate_poll: num_arrivals: 46788, delta_num_arrivals: 118, num_departures: 46755, jobs_in_system: 33 
+[Wed Apr 20 21:51:12 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:12 2011] [info] arrival_rate_poll: num_arrivals: 46912, delta_num_arrivals: 124, num_departures: 46880, jobs_in_system: 32 
+[Wed Apr 20 21:51:12 2011] [info] busy_poll: 32 
+[Wed Apr 20 21:51:12 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:13 2011] [info] arrival_rate_poll: num_arrivals: 47021, delta_num_arrivals: 109, num_departures: 46999, jobs_in_system: 22 
+[Wed Apr 20 21:51:13 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:13 2011] [info] busy_poll: 22 
+[Wed Apr 20 21:51:13 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:14 2011] [info] arrival_rate_poll: num_arrivals: 47170, delta_num_arrivals: 149, num_departures: 47120, jobs_in_system: 50 
+[Wed Apr 20 21:51:14 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:14 2011] [info] busy_poll: 50 
+[Wed Apr 20 21:51:14 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:15 2011] [info] arrival_rate_poll: num_arrivals: 47292, delta_num_arrivals: 122, num_departures: 47255, jobs_in_system: 37 
+[Wed Apr 20 21:51:15 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:15 2011] [info] busy_poll: 37 
+[Wed Apr 20 21:51:15 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:16 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 108, num_departures: 47383, jobs_in_system: 17 
+[Wed Apr 20 21:51:16 2011] [info] stat_poll: idle: 0, busy: 1, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:16 2011] [info] busy_poll: 17 
+[Wed Apr 20 21:51:16 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:17 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:17 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:17 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:17 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:18 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:18 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:18 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:18 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:19 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:19 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:19 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:19 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:20 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:20 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:20 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:20 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:21 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:21 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:21 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:21 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:22 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:22 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:22 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:22 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:23 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:23 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:23 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:23 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:24 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:24 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:24 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:24 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:25 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:25 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:25 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:25 2011] [info] state_poll: Rdy 
+[Wed Apr 20 21:51:26 2011] [info] arrival_rate_poll: num_arrivals: 47400, delta_num_arrivals: 0, num_departures: 47400, jobs_in_system: 0 
+[Wed Apr 20 21:51:26 2011] [info] stat_poll: idle: 1, busy: 0, off: 0, setup: 0, setdown: 0
+[Wed Apr 20 21:51:26 2011] [info] busy_poll: 0 
+[Wed Apr 20 21:51:26 2011] [info] state_poll: Rdy 
