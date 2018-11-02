@@ -1001,7 +1001,7 @@ main(int argc, char **argv)
 		if (param.port < 0)
 			param.port = 443;
 
-                SSL_library_init ();
+        SSL_library_init ();
 		SSL_load_error_strings ();
 #if (OPENSSL_VERSION_NUMBER < 0x10100000L)
                 SSLeay_add_all_algorithms ();
@@ -1009,41 +1009,88 @@ main(int argc, char **argv)
 
 		switch (param.ssl_protocol)
                 {
-                    /* 0/auto for SSLv23 */
+                    /* 0/auto for highest available */
                     case 0: 
-#if (OPENSSL_VERSION_NUMBER < 0x10100000L)
-		    ssl_ctx = SSL_CTX_new (TLS_client_method ()); break;
+#if (OPENSSL_VERSION_NUMBER >= 0x10100000L)
+                    ssl_ctx = SSL_CTX_new (TLS_client_method ()); break;
 #else
-		    ssl_ctx = SSL_CTX_new (SSLv23_client_method ()); break;
+                    ssl_ctx = SSL_CTX_new (SSLv23_client_method ()); break;
 #endif
 
 #ifndef OPENSSL_NO_SSL2
-		    /* 2/SSLv2 */
-                    case 2:
-#if (OPENSSL_VERSION_NUMBER < 0x10100000L)
-		    ssl_ctx = SSL_CTX_new (TLS_client_method ()); break;
-#if (OPENSSL_VERSION_NUMBER < 0x10100000L)
-		    SSL_CTX_set_options(ssl_ctx, SSL_OP_NO_SSLv3 | SSL_OP_NO_TLSv1 | SSL_OP_NO_TLSv1_1 | SSL_OP_NO_TLSv1_2 | SSL_OP_NO_TLSv1_3); break;
+                    /* 2/SSLv2 */
+                    case 2: 
+#if (OPENSSL_VERSION_NUMBER >= 0x10100000L)
+                    ssl_ctx = SSL_CTX_new (TLS_client_method ());
+#if (OPENSSL_VERSION_NUMBER >= 0x10101000L)
+                    SSL_CTX_set_options(ssl_ctx, SSL_OP_NO_SSLv3 | SSL_OP_NO_TLSv1 | SSL_OP_NO_TLSv1_1 | SSL_OP_NO_TLSv1_2 | SSL_OP_NO_TLSv1_3); break;
 #else
 		    SSL_CTX_set_options(ssl_ctx, SSL_OP_NO_SSLv3 | SSL_OP_NO_TLSv1 | SSL_OP_NO_TLSv1_1 | SSL_OP_NO_TLSv1_2); break;
 #endif
 #else
-		    ssl_ctx = SSL_CTX_new (SSLv2_client_method ()); break;
+                    ssl_ctx = SSL_CTX_new (SSLv2_client_method ()); break;
 #endif
 #endif
 
 #ifndef OPENSSL_NO_SSL3
-		    /* 3/SSLv3 */
-                    case 3:
+                    /* 3/SSLv3 */
+                    case 3: 
 #if (OPENSSL_VERSION_NUMBER >= 0x10100000L)
-		    ssl_ctx = SSL_CTX_new (TLS_client_method ());
+                    ssl_ctx = SSL_CTX_new (TLS_client_method ());
 		    SSL_CTX_set_min_proto_version(ssl_ctx, SSL3_VERSION);
 		    SSL_CTX_set_max_proto_version(ssl_ctx, SSL3_VERSION);
 		    break;
 #else
-		    ssl_ctx = SSL_CTX_new (SSLv3_client_method ()); break;
+                    ssl_ctx = SSL_CTX_new (SSLv3_client_method ()); break;
 #endif
 #endif
+                    /* 4/TLSv1.0 */
+                    case 4: 
+#if (OPENSSL_VERSION_NUMBER >= 0x10100000L)
+                    ssl_ctx = SSL_CTX_new (TLS_client_method ()); 
+                    SSL_CTX_set_min_proto_version(ssl_ctx, TLS1_VERSION);
+		    SSL_CTX_set_max_proto_version(ssl_ctx, TLS1_VERSION);
+		    break;
+#else
+                    ssl_ctx = SSL_CTX_new (TLSv1_client_method ());
+		    SSL_CTX_set_options(ssl_ctx, SSL_OP_NO_SSLv2 | SSL_OP_NO_SSLv3 | SSL_OP_NO_TLSv1_1 | SSL_OP_NO_TLSv1_2); break;
+#endif
+
+                    /* 5/TLSv1.1 */
+                    case 5:
+#if (OPENSSL_VERSION_NUMBER >= 0x10100000L)
+                    ssl_ctx = SSL_CTX_new (TLS_client_method ());
+                    SSL_CTX_set_min_proto_version(ssl_ctx, TLS1_1_VERSION);
+		    SSL_CTX_set_max_proto_version(ssl_ctx, TLS1_1_VERSION);
+		    break;
+#else
+                    ssl_ctx = SSL_CTX_new (TLSv1_client_method ());
+		    SSL_CTX_set_options(ssl_ctx, SSL_OP_NO_SSLv2 | SSL_OP_NO_SSLv3 | SSL_OP_NO_TLSv1 | SSL_OP_NO_TLSv1_2); break;
+#endif
+
+		    /* 6/TLSv1.2 */
+                    case 6:
+#if (OPENSSL_VERSION_NUMBER >= 0x10100000L)
+                    ssl_ctx = SSL_CTX_new (TLS_client_method ());
+                    SSL_CTX_set_min_proto_version(ssl_ctx, TLS1_2_VERSION);
+		    SSL_CTX_set_max_proto_version(ssl_ctx, TLS1_2_VERSION);
+		    break;
+#else
+                    ssl_ctx = SSL_CTX_new (TLSv1_client_method ());
+		    SSL_CTX_set_options(ssl_ctx, SSL_OP_NO_SSLv2 | SSL_OP_NO_SSLv3 | SSL_OP_NO_TLSv1 | SSL_OP_NO_TLSv1_1); break;
+#endif
+
+#if (OPENSSL_VERSION_NUMBER >= 0x10101000L)
+                    /* 7/TLSv1.3 */
+		    case 7:
+                    ssl_ctx = SSL_CTX_new (TLS_client_method ());
+                    SSL_CTX_set_min_proto_version(ssl_ctx, TLS1_3_VERSION);
+		    SSL_CTX_set_max_proto_version(ssl_ctx, TLS1_3_VERSION);
+		    break;
+#endif
+
+                }
+
 		if (!ssl_ctx) {
 			ERR_print_errors_fp(stderr);
 			exit(-1);
