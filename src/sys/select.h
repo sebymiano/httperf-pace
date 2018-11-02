@@ -31,7 +31,7 @@
 #include <bits/select.h>
 
 /* Get __sigset_t.  */
-#include <bits/sigset.h>
+#include <bits/types/sigset_t.h>
 
 #ifndef __sigset_t_defined
 # define __sigset_t_defined
